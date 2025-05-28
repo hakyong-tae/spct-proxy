@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2025053102",
+    "date": "2025-05-31",
+    "title": "2025 방통대 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025053102"
+  },
+  {
+    "event_no": "20250531010",
+    "date": "2025-05-31",
+    "title": "2025서천한산모시마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250531010"
+  },
+  {
+    "event_no": "2025053101",
+    "date": "2025-05-31",
+    "title": "2025 지구런 더 피스로드",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025053101"
+  },
+  {
     "event_no": "2025052502",
     "date": "2025-05-25",
     "title": "시흥 육상연맹회장기 마라톤",
@@ -40,23 +58,5 @@
     "date": "2025-05-18",
     "title": "제3회 여의도밤섬마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025051801"
-  },
-  {
-    "event_no": "20250518009",
-    "date": "2025-05-18",
-    "title": "제15회 대전 서구청장배 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250518009"
-  },
-  {
-    "event_no": "2025051702",
-    "date": "2025-05-17",
-    "title": "2025 자이언트 설악그란폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025051702"
-  },
-  {
-    "event_no": "2025051701",
-    "date": "2025-05-17",
-    "title": "2025 포레스트런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025051701"
   }
 ]
