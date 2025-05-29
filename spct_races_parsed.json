@@ -1,5 +1,29 @@
 [
   {
+    "event_no": "2025060103",
+    "date": "2025-06-01",
+    "title": "2025정읍내장산그란폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025060103"
+  },
+  {
+    "event_no": "2025060102",
+    "date": "2025-06-01",
+    "title": "제10회 너릿재 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025060102"
+  },
+  {
+    "event_no": "2025060101",
+    "date": "2025-06-01",
+    "title": "희망드림 제22회 새벽강변국제마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025060101"
+  },
+  {
+    "event_no": "20250601009",
+    "date": "2025-06-01",
+    "title": "전마협 창단 24주년 2025 대전 월드런 마라톤 축제",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250601009"
+  },
+  {
     "event_no": "2025053102",
     "date": "2025-05-31",
     "title": "2025 방통대 마라톤",
@@ -34,29 +58,5 @@
     "date": "2025-05-25",
     "title": "2025 무주반딧불 하프마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250525009"
-  },
-  {
-    "event_no": "20250525001",
-    "date": "2025-05-25",
-    "title": "제29회 제주국제관광마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250525001"
-  },
-  {
-    "event_no": "2025052401",
-    "date": "2025-05-24",
-    "title": "제 25회 5.18 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025052401"
-  },
-  {
-    "event_no": "2025051802",
-    "date": "2025-05-18",
-    "title": "2025 혭삐 수육런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025051802"
-  },
-  {
-    "event_no": "2025051801",
-    "date": "2025-05-18",
-    "title": "제3회 여의도밤섬마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025051801"
   }
 ]
