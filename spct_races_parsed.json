@@ -1,8 +1,14 @@
 [
   {
+    "event_no": "2025060104",
+    "date": "2025-06-01",
+    "title": "2025 정읍내장산그란폰도KOM",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025060104"
+  },
+  {
     "event_no": "2025060103",
     "date": "2025-06-01",
-    "title": "2025정읍내장산그란폰도",
+    "title": "2025 정읍내장산그란폰도",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025060103"
   },
   {
@@ -52,11 +58,5 @@
     "date": "2025-05-25",
     "title": "2025 구리유채꽃마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025052501"
-  },
-  {
-    "event_no": "20250525009",
-    "date": "2025-05-25",
-    "title": "2025 무주반딧불 하프마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250525009"
   }
 ]
