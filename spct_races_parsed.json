@@ -1,5 +1,17 @@
 [
   {
+    "event_no": "20250608010",
+    "date": "2025-06-08",
+    "title": "파주시육상연맹회장배 시민마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250608010"
+  },
+  {
+    "event_no": "2025060801",
+    "date": "2025-06-08",
+    "title": "2025 삼척그란폰도ITT",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025060801"
+  },
+  {
     "event_no": "2025060703",
     "date": "2025-06-07",
     "title": "2025 삼척그란폰도",
@@ -46,17 +58,5 @@
     "date": "2025-06-01",
     "title": "전마협 창단 24주년 2025 대전 월드런 마라톤 축제",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250601009"
-  },
-  {
-    "event_no": "2025053102",
-    "date": "2025-05-31",
-    "title": "제11회 I LOVE 방송대 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025053102"
-  },
-  {
-    "event_no": "20250531010",
-    "date": "2025-05-31",
-    "title": "2025서천한산모시마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250531010"
   }
 ]
