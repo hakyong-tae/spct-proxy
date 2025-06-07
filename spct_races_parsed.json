@@ -12,6 +12,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025060801"
   },
   {
+    "event_no": "2025060704",
+    "date": "2025-06-07",
+    "title": "2025 삼척 그란폰도(Kom)",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025060704"
+  },
+  {
     "event_no": "2025060703",
     "date": "2025-06-07",
     "title": "2025 삼척 그란폰도",
@@ -52,11 +58,5 @@
     "date": "2025-06-01",
     "title": "희망드림 제22회 새벽강변 국제마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025060101"
-  },
-  {
-    "event_no": "20250601009",
-    "date": "2025-06-01",
-    "title": "전마협 창단 24주년 2025 대전 월드런 마라톤 축제",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250601009"
   }
 ]
