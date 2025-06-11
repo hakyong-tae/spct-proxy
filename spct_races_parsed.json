@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2025061401",
+    "date": "2025-06-14",
+    "title": "제15회 국민행복마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025061401"
+  },
+  {
     "event_no": "20250608010",
     "date": "2025-06-08",
     "title": "2025 파주육상연맹회장배시민마라톤",
@@ -52,11 +58,5 @@
     "date": "2025-06-01",
     "title": "제10회 너릿재 마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025060102"
-  },
-  {
-    "event_no": "2025060101",
-    "date": "2025-06-01",
-    "title": "희망드림 제22회 새벽강변 국제마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025060101"
   }
 ]
