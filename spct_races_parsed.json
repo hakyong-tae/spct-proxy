@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2025081601",
+    "date": "2025-08-16",
+    "title": "2025순천야광레이스",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025081601"
+  },
+  {
     "event_no": "20250713009",
     "date": "2025-07-13",
     "title": "스피드업 라이트 출시 기념 2025 전마협 별들의 전쟁 & 꽃들의 전쟁",
@@ -52,11 +58,5 @@
     "date": "2025-06-15",
     "title": "제21회영덕해변전국마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025061501"
-  },
-  {
-    "event_no": "2025061401",
-    "date": "2025-06-14",
-    "title": "제15회 국민행복마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025061401"
   }
 ]
