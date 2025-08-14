@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "20250817001",
+    "date": "2025-08-17",
+    "title": "2025 HAPPY700 평창 대관령 전국 하프마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250817001"
+  },
+  {
     "event_no": "2025081601",
     "date": "2025-08-16",
     "title": "2025순천야광레이스",
@@ -52,11 +58,5 @@
     "date": "2025-06-15",
     "title": "2025 김해숲길마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025061502"
-  },
-  {
-    "event_no": "2025061501",
-    "date": "2025-06-15",
-    "title": "제21회영덕해변전국마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025061501"
   }
 ]
