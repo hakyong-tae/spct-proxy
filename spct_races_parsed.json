@@ -1,5 +1,17 @@
 [
   {
+    "event_no": "2025083001",
+    "date": "2025-08-30",
+    "title": "2025 선샤인런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025083001"
+  },
+  {
+    "event_no": "2025082701",
+    "date": "2025-08-27",
+    "title": "테스트마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025082701"
+  },
+  {
     "event_no": "20250823009",
     "date": "2025-08-23",
     "title": "2025 전국마라톤협회장배 10km 레이스(무료초청)",
@@ -46,17 +58,5 @@
     "date": "2025-06-22",
     "title": "2025블루베리마라톤축제",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025062201"
-  },
-  {
-    "event_no": "2025062101",
-    "date": "2025-06-21",
-    "title": "2025서울신문연천DMZ랠리",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025062101"
-  },
-  {
-    "event_no": "2025061503",
-    "date": "2025-06-15",
-    "title": "제2회 긍정의 힘 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025061503"
   }
 ]
