@@ -1,5 +1,17 @@
 [
   {
+    "event_no": "2025090601",
+    "date": "2025-09-06",
+    "title": "2025 문경새재 그란폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025090601"
+  },
+  {
+    "event_no": "20250906009",
+    "date": "2025-09-06",
+    "title": "2025 초록우산 나눔 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250906009"
+  },
+  {
     "event_no": "2025083001",
     "date": "2025-08-30",
     "title": "제4회 선샤인 런",
@@ -46,17 +58,5 @@
     "date": "2025-06-28",
     "title": "2025 보은 속리산 말티재 힐링 알몸 마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250628009"
-  },
-  {
-    "event_no": "2025062201",
-    "date": "2025-06-22",
-    "title": "2025블루베리마라톤축제",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025062201"
-  },
-  {
-    "event_no": "2025062101",
-    "date": "2025-06-21",
-    "title": "2025서울신문연천DMZ랠리",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025062101"
   }
 ]
