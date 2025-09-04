@@ -1,8 +1,32 @@
 [
   {
+    "event_no": "20250907010",
+    "date": "2025-09-07",
+    "title": "2025 창원그란페스타러닝",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250907010"
+  },
+  {
+    "event_no": "2025090701",
+    "date": "2025-09-07",
+    "title": "제11회 시각장애인과 함께하는어울림마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025090701"
+  },
+  {
+    "event_no": "20250907009",
+    "date": "2025-09-07",
+    "title": "제1회 영광 광풍 마라톤 대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250907009"
+  },
+  {
+    "event_no": "2025090602",
+    "date": "2025-09-06",
+    "title": "2025 문경새재그란폰도KOM",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025090602"
+  },
+  {
     "event_no": "2025090601",
     "date": "2025-09-06",
-    "title": "2025 문경새재 그란폰도",
+    "title": "2025 문경새재그란폰도",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025090601"
   },
   {
@@ -34,29 +58,5 @@
     "date": "2025-08-16",
     "title": "2025순천야광레이스",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025081601"
-  },
-  {
-    "event_no": "20250713009",
-    "date": "2025-07-13",
-    "title": "스피드업 라이트 출시 기념 2025 전마협 별들의 전쟁 & 꽃들의 전쟁",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250713009"
-  },
-  {
-    "event_no": "2025071201",
-    "date": "2025-07-10",
-    "title": "제14회 삼척이사부장군배 전국바다수영",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025071201"
-  },
-  {
-    "event_no": "20250705009",
-    "date": "2025-07-05",
-    "title": "2025 자연특별시 무주 전마협 무료 초청 훈련 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250705009"
-  },
-  {
-    "event_no": "20250628009",
-    "date": "2025-06-28",
-    "title": "2025 보은 속리산 말티재 힐링 알몸 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250628009"
   }
 ]
