@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2025091403",
+    "date": "2025-09-14",
+    "title": "제 18회 구로구청장배 치킨 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025091403"
+  },
+  {
+    "event_no": "2025091402",
+    "date": "2025-09-14",
+    "title": "2025 울진 금강송배 전국마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025091402"
+  },
+  {
+    "event_no": "2025091401",
+    "date": "2025-09-14",
+    "title": "2025 공주백제그란폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025091401"
+  },
+  {
     "event_no": "2025091301",
     "date": "2025-09-13",
     "title": "2025 양양 강변 전국마라톤",
@@ -40,23 +58,5 @@
     "date": "2025-09-06",
     "title": "2025 문경새재그란폰도(kom)",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025090602"
-  },
-  {
-    "event_no": "2025090601",
-    "date": "2025-09-06",
-    "title": "2025 문경새재그란폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025090601"
-  },
-  {
-    "event_no": "20250906009",
-    "date": "2025-09-06",
-    "title": "2025 초록우산 나눔 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250906009"
-  },
-  {
-    "event_no": "20250906001",
-    "date": "2025-09-06",
-    "title": "정선 동강마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250906001"
   }
 ]
