@@ -18,10 +18,28 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025091401"
   },
   {
+    "event_no": "20250914009",
+    "date": "2025-09-14",
+    "title": "2025 금산인삼축제 투데이 마라톤대회 (일)",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250914009"
+  },
+  {
+    "event_no": "202509140001",
+    "date": "2025-09-14",
+    "title": "KTX광명역평화마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=202509140001"
+  },
+  {
     "event_no": "2025091301",
     "date": "2025-09-13",
     "title": "2025 양양강변전국마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025091301"
+  },
+  {
+    "event_no": "20250913009",
+    "date": "2025-09-13",
+    "title": "2025 금산인삼축제 투데이 마라톤대회 (토)",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250913009"
   },
   {
     "event_no": "2025091201",
@@ -40,23 +58,5 @@
     "date": "2025-09-07",
     "title": "제11회 시각장애인과 함께하는 어울림마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025090701"
-  },
-  {
-    "event_no": "20250907009",
-    "date": "2025-09-07",
-    "title": "제1회 영광 광풍 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250907009"
-  },
-  {
-    "event_no": "2025090603",
-    "date": "2025-09-06",
-    "title": "2025 문경새재메디오폰도(kom)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025090603"
-  },
-  {
-    "event_no": "2025090602",
-    "date": "2025-09-06",
-    "title": "2025 문경새재그란폰도(kom)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025090602"
   }
 ]
