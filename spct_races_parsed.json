@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2025092003",
+    "date": "2025-09-20",
+    "title": "2025광주청년마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092003"
+  },
+  {
+    "event_no": "2025092002",
+    "date": "2025-09-20",
+    "title": "2025완주 만경강 메디오폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092002"
+  },
+  {
+    "event_no": "2025092001",
+    "date": "2025-09-20",
+    "title": "이봉주 보스턴제패기념 25회 홍성마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092001"
+  },
+  {
     "event_no": "2025091404",
     "date": "2025-09-14",
     "title": "2025 공주백제그란폰도 KOM",
@@ -40,23 +58,5 @@
     "date": "2025-09-13",
     "title": "2025 양양강변전국마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025091301"
-  },
-  {
-    "event_no": "20250913009",
-    "date": "2025-09-13",
-    "title": "2025 금산인삼축제 투데이 마라톤대회 (토)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250913009"
-  },
-  {
-    "event_no": "2025091201",
-    "date": "2025-09-12",
-    "title": "대영고 사제동행",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025091201"
-  },
-  {
-    "event_no": "20250907010",
-    "date": "2025-09-07",
-    "title": "2025 창원그란페스타러닝",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250907010"
   }
 ]
