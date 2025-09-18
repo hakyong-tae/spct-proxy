@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2025092103",
+    "date": "2025-09-21",
+    "title": "제1회 대전 신채호마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092103"
+  },
+  {
+    "event_no": "2025092102",
+    "date": "2025-09-21",
+    "title": "2025 철원DMZ국제평화마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092102"
+  },
+  {
+    "event_no": "2025092101",
+    "date": "2025-09-21",
+    "title": "제23회전국부부가족마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092101"
+  },
+  {
     "event_no": "2025092003",
     "date": "2025-09-20",
     "title": "2025광주청년마라톤",
@@ -40,23 +58,5 @@
     "date": "2025-09-14",
     "title": "2025 공주백제그란폰도",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025091401"
-  },
-  {
-    "event_no": "20250914009",
-    "date": "2025-09-14",
-    "title": "2025 금산인삼축제 투데이 마라톤대회 (일)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250914009"
-  },
-  {
-    "event_no": "20250914001",
-    "date": "2025-09-14",
-    "title": "KTX광명역평화마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250914001"
-  },
-  {
-    "event_no": "2025091301",
-    "date": "2025-09-13",
-    "title": "2025 양양강변전국마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025091301"
   }
 ]
