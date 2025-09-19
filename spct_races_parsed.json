@@ -18,6 +18,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092101"
   },
   {
+    "event_no": "20250921001",
+    "date": "2025-09-21",
+    "title": "안산마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250921001"
+  },
+  {
     "event_no": "2025092003",
     "date": "2025-09-20",
     "title": "2025광주청년마라톤",
@@ -52,11 +58,5 @@
     "date": "2025-09-14",
     "title": "2025 울진금강송배 전국마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025091402"
-  },
-  {
-    "event_no": "2025091401",
-    "date": "2025-09-14",
-    "title": "2025 공주백제그란폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025091401"
   }
 ]
