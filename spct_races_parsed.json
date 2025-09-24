@@ -1,5 +1,17 @@
 [
   {
+    "event_no": "2025092701",
+    "date": "2025-09-27",
+    "title": "제1회 의성마늘마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092701"
+  },
+  {
+    "event_no": "20250927001",
+    "date": "2025-09-27",
+    "title": "2025 ROK Army 트레일러닝",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250927001"
+  },
+  {
     "event_no": "2025092103",
     "date": "2025-09-21",
     "title": "제1회 대전신채호마라톤",
@@ -46,17 +58,5 @@
     "date": "2025-09-20",
     "title": "제25회 홍성마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092001"
-  },
-  {
-    "event_no": "2025091404",
-    "date": "2025-09-14",
-    "title": "2025 공주백제그란폰도 KOM",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025091404"
-  },
-  {
-    "event_no": "2025091403",
-    "date": "2025-09-14",
-    "title": "제 18회 구로구청장배 치킨 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025091403"
   }
 ]
