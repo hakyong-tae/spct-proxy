@@ -1,8 +1,50 @@
 [
   {
+    "event_no": "2025092803",
+    "date": "2025-09-28",
+    "title": "제18회 가평자라섬 전국마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092803"
+  },
+  {
+    "event_no": "2025092802",
+    "date": "2025-09-28",
+    "title": "GREEN STEP 2025",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092802"
+  },
+  {
+    "event_no": "20250928019",
+    "date": "2025-09-28",
+    "title": "제1회 마포 구청장배 마라톤 대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250928019"
+  },
+  {
+    "event_no": "20250928010",
+    "date": "2025-09-28",
+    "title": "제36회 경기도생활체육대축전",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250928010"
+  },
+  {
+    "event_no": "2025092801",
+    "date": "2025-09-28",
+    "title": "제19회 달서하프마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092801"
+  },
+  {
+    "event_no": "20250928009",
+    "date": "2025-09-28",
+    "title": "2025 서산 코스모스 황금들녘 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250928009"
+  },
+  {
+    "event_no": "2025092702",
+    "date": "2025-09-27",
+    "title": "2025 어라운드 태백",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092702"
+  },
+  {
     "event_no": "2025092701",
     "date": "2025-09-27",
-    "title": "제1회 의성마늘마라톤",
+    "title": "제 1회 의성마늘마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092701"
   },
   {
@@ -16,47 +58,5 @@
     "date": "2025-09-21",
     "title": "제1회 대전신채호마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092103"
-  },
-  {
-    "event_no": "2025092102",
-    "date": "2025-09-21",
-    "title": "2025철원DMZ국제평화마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092102"
-  },
-  {
-    "event_no": "2025092101",
-    "date": "2025-09-21",
-    "title": "제23회 전국부부 가족마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092101"
-  },
-  {
-    "event_no": "20250921001",
-    "date": "2025-09-21",
-    "title": "안산마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250921001"
-  },
-  {
-    "event_no": "2025092004",
-    "date": "2025-09-20",
-    "title": "2025 완주만경강메디오폰도KOM",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092004"
-  },
-  {
-    "event_no": "2025092003",
-    "date": "2025-09-20",
-    "title": "2025 광주 청년 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092003"
-  },
-  {
-    "event_no": "2025092002",
-    "date": "2025-09-20",
-    "title": "2025 완주만경강메디오폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092002"
-  },
-  {
-    "event_no": "2025092001",
-    "date": "2025-09-20",
-    "title": "제25회 홍성마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092001"
   }
 ]
