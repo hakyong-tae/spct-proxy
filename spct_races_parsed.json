@@ -2,7 +2,7 @@
   {
     "event_no": "2025092803",
     "date": "2025-09-28",
-    "title": "제18회 가평자라섬 전국마라톤",
+    "title": "제18회 가평자라섬 전국마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092803"
   },
   {
@@ -18,12 +18,6 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250928019"
   },
   {
-    "event_no": "20250928010",
-    "date": "2025-09-28",
-    "title": "제36회 경기도생활체육대축전",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250928010"
-  },
-  {
     "event_no": "2025092801",
     "date": "2025-09-28",
     "title": "제19회 달서하프마라톤",
@@ -36,9 +30,21 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250928009"
   },
   {
+    "event_no": "20250928001",
+    "date": "2025-09-28",
+    "title": "인천송도국제마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250928001"
+  },
+  {
+    "event_no": "2025092703",
+    "date": "2025-09-27",
+    "title": "2025어라운드 태백(KOM)",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092703"
+  },
+  {
     "event_no": "2025092702",
     "date": "2025-09-27",
-    "title": "2025 어라운드 태백",
+    "title": "2025어라운드 태백",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092702"
   },
   {
@@ -52,11 +58,5 @@
     "date": "2025-09-27",
     "title": "2025 ROK Army 트레일러닝",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250927001"
-  },
-  {
-    "event_no": "2025092103",
-    "date": "2025-09-21",
-    "title": "제1회 대전신채호마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092103"
   }
 ]
