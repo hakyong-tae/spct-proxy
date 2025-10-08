@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2025101101",
+    "date": "2025-10-11",
+    "title": "2025상주그란폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101101"
+  },
+  {
     "event_no": "2025100302",
     "date": "2025-10-03",
     "title": "트레이닝데이 10K",
@@ -52,11 +58,5 @@
     "date": "2025-09-28",
     "title": "인천송도국제마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250928001"
-  },
-  {
-    "event_no": "2025092703",
-    "date": "2025-09-27",
-    "title": "2025어라운드 태백(KOM)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092703"
   }
 ]
