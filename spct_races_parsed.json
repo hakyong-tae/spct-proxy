@@ -1,5 +1,17 @@
 [
   {
+    "event_no": "2025101202",
+    "date": "2025-10-12",
+    "title": "2025상주그란폰도MTB",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101202"
+  },
+  {
+    "event_no": "20251012009",
+    "date": "2025-10-12",
+    "title": "제8회 거제시장배 섬꽃 전국 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251012009"
+  },
+  {
     "event_no": "2025101101",
     "date": "2025-10-11",
     "title": "2025상주그란폰도",
@@ -46,17 +58,5 @@
     "date": "2025-09-28",
     "title": "제19회 달서하프마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092801"
-  },
-  {
-    "event_no": "20250928009",
-    "date": "2025-09-28",
-    "title": "2025 서산 코스모스 황금들녘 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250928009"
-  },
-  {
-    "event_no": "20250928001",
-    "date": "2025-09-28",
-    "title": "인천송도국제마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250928001"
   }
 ]
