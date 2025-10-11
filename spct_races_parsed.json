@@ -12,6 +12,18 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251012009"
   },
   {
+    "event_no": "2025101103",
+    "date": "2025-10-11",
+    "title": "2025상주그란폰도KOM",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101103"
+  },
+  {
+    "event_no": "2025101102",
+    "date": "2025-10-11",
+    "title": "제4회 광주MBC지오마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101102"
+  },
+  {
     "event_no": "2025101101",
     "date": "2025-10-11",
     "title": "2025상주그란폰도",
@@ -46,17 +58,5 @@
     "date": "2025-09-28",
     "title": "제1회 마포 구청장배 마라톤 대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250928019"
-  },
-  {
-    "event_no": "20250928010",
-    "date": "2025-09-28",
-    "title": "제36회 경기도생활체육대축전",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250928010"
-  },
-  {
-    "event_no": "2025092801",
-    "date": "2025-09-28",
-    "title": "제19회 달서하프마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092801"
   }
 ]
