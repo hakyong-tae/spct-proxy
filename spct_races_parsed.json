@@ -1,9 +1,21 @@
 [
   {
+    "event_no": "2025101203",
+    "date": "2025-10-12",
+    "title": "제25회 상주시장배 전국MTB대회(KOM)",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101203"
+  },
+  {
     "event_no": "2025101202",
     "date": "2025-10-12",
-    "title": "2025상주그란폰도MTB",
+    "title": "제25회 상주시장배 전국MTB대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101202"
+  },
+  {
+    "event_no": "2025101201",
+    "date": "2025-10-12",
+    "title": "제18회 중랑구청장배 장미 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101201"
   },
   {
     "event_no": "20251012009",
@@ -46,17 +58,5 @@
     "date": "2025-09-28",
     "title": "제18회 가평자라섬 전국마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092803"
-  },
-  {
-    "event_no": "2025092802",
-    "date": "2025-09-28",
-    "title": "GREEN STEP 2025",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025092802"
-  },
-  {
-    "event_no": "20250928019",
-    "date": "2025-09-28",
-    "title": "제1회 마포 구청장배 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20250928019"
   }
 ]
