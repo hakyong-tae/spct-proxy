@@ -1,5 +1,47 @@
 [
   {
+    "event_no": "2025101905",
+    "date": "2025-10-19",
+    "title": "제2회효도밥상마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101905"
+  },
+  {
+    "event_no": "2025101904",
+    "date": "2025-10-19",
+    "title": "2025 최강 백령 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101904"
+  },
+  {
+    "event_no": "2025101903",
+    "date": "2025-10-19",
+    "title": "2025 파주북시티 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101903"
+  },
+  {
+    "event_no": "2025101902",
+    "date": "2025-10-19",
+    "title": "제24회 대청호마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101902"
+  },
+  {
+    "event_no": "2025101901",
+    "date": "2025-10-19",
+    "title": "제14회광주평화통일마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101901"
+  },
+  {
+    "event_no": "20251019009",
+    "date": "2025-10-19",
+    "title": "제22회 여주 세종대왕 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251019009"
+  },
+  {
+    "event_no": "2025101803",
+    "date": "2025-10-18",
+    "title": "2025 부여 굿뜨래 그란폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101803"
+  },
+  {
     "event_no": "2025101802",
     "date": "2025-10-18",
     "title": "제8회 광주남구청장배마라톤",
@@ -12,51 +54,9 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101801"
   },
   {
-    "event_no": "2025101203",
-    "date": "2025-10-12",
-    "title": "제25회 상주시장배 전국MTB대회(KOM)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101203"
-  },
-  {
-    "event_no": "2025101202",
-    "date": "2025-10-12",
-    "title": "제25회 상주시장배 전국MTB대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101202"
-  },
-  {
-    "event_no": "2025101201",
-    "date": "2025-10-12",
-    "title": "제18회 중랑구청장배 장미 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101201"
-  },
-  {
-    "event_no": "20251012009",
-    "date": "2025-10-12",
-    "title": "제8회 거제시장배 섬꽃 전국 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251012009"
-  },
-  {
-    "event_no": "2025101103",
-    "date": "2025-10-11",
-    "title": "2025상주그란폰도KOM",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101103"
-  },
-  {
-    "event_no": "2025101102",
-    "date": "2025-10-11",
-    "title": "제4회 광주MBC지오마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101102"
-  },
-  {
-    "event_no": "2025101101",
-    "date": "2025-10-11",
-    "title": "2025상주그란폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101101"
-  },
-  {
-    "event_no": "2025100302",
-    "date": "2025-10-03",
-    "title": "트레이닝데이 10K",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025100302"
+    "event_no": "20251018009",
+    "date": "2025-09-24",
+    "title": "제19회 충주 앙성 비내길 마라톤 대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251018009"
   }
 ]
