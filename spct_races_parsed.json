@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2025101906",
+    "date": "2025-10-19",
+    "title": "2025 영암모터피아 F1마라톤 대회 in KIC",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101906"
+  },
+  {
     "event_no": "2025101905",
     "date": "2025-10-19",
     "title": "제2회효도밥상마라톤",
@@ -36,6 +42,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251019009"
   },
   {
+    "event_no": "2025101804",
+    "date": "2025-10-18",
+    "title": "2025 부여 굿뜨래 그란폰도 KOM",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101804"
+  },
+  {
     "event_no": "2025101803",
     "date": "2025-10-18",
     "title": "2025 부여 굿뜨래 그란폰도",
@@ -46,17 +58,5 @@
     "date": "2025-10-18",
     "title": "제8회 광주남구청장배마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101802"
-  },
-  {
-    "event_no": "2025101801",
-    "date": "2025-10-18",
-    "title": "제3회 강서허준런(RUN)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101801"
-  },
-  {
-    "event_no": "20251018009",
-    "date": "2025-09-24",
-    "title": "제19회 충주 앙성 비내길 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251018009"
   }
 ]
