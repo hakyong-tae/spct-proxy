@@ -1,5 +1,41 @@
 [
   {
+    "event_no": "2025102505",
+    "date": "2025-10-25",
+    "title": "2025섬섬여수그란폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102505"
+  },
+  {
+    "event_no": "2025102504",
+    "date": "2025-10-25",
+    "title": "2025 산림청장배 영양 산악마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102504"
+  },
+  {
+    "event_no": "2025102503",
+    "date": "2025-10-25",
+    "title": "프렌드쉽워크 코리아 2025",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102503"
+  },
+  {
+    "event_no": "2025102502",
+    "date": "2025-10-25",
+    "title": "제20회 사천노을마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102502"
+  },
+  {
+    "event_no": "20251025010",
+    "date": "2025-10-25",
+    "title": "2025 의정부시 하천 마라톤 전국대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251025010"
+  },
+  {
+    "event_no": "2025102501",
+    "date": "2025-10-25",
+    "title": "2025 배움이 자라는 기부런 런앤런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102501"
+  },
+  {
     "event_no": "2025101906",
     "date": "2025-10-19",
     "title": "2025 영암모터피아 F1마라톤 대회 in KIC",
@@ -22,41 +58,5 @@
     "date": "2025-10-19",
     "title": "2025 파주북시티 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101903"
-  },
-  {
-    "event_no": "2025101902",
-    "date": "2025-10-19",
-    "title": "제24회 대청호마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101902"
-  },
-  {
-    "event_no": "2025101901",
-    "date": "2025-10-19",
-    "title": "제14회광주평화통일마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101901"
-  },
-  {
-    "event_no": "20251019009",
-    "date": "2025-10-19",
-    "title": "제22회 여주 세종대왕 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251019009"
-  },
-  {
-    "event_no": "2025101804",
-    "date": "2025-10-18",
-    "title": "2025 부여 굿뜨래 그란폰도 KOM",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101804"
-  },
-  {
-    "event_no": "2025101803",
-    "date": "2025-10-18",
-    "title": "2025 부여 굿뜨래 그란폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101803"
-  },
-  {
-    "event_no": "2025101802",
-    "date": "2025-10-18",
-    "title": "제8회 광주남구청장배마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025101802"
   }
 ]
