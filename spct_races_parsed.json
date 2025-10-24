@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2025102604",
+    "date": "2025-10-26",
+    "title": "2025 청양군 체육회장기 전국마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102604"
+  },
+  {
     "event_no": "2025102603",
     "date": "2025-10-26",
     "title": "전남생활체육대축전",
@@ -52,11 +58,5 @@
     "date": "2025-10-25",
     "title": "2025 의정부시 하천 마라톤 전국대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251025010"
-  },
-  {
-    "event_no": "2025102501",
-    "date": "2025-10-25",
-    "title": "2025 배움이 자라는 기부런 런앤런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102501"
   }
 ]
