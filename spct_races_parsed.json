@@ -8,7 +8,7 @@
   {
     "event_no": "2025102603",
     "date": "2025-10-26",
-    "title": "전남생활체육대축전",
+    "title": "제37회 전라남도생활체육대축전",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102603"
   },
   {
@@ -24,15 +24,27 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102601"
   },
   {
+    "event_no": "20251026002",
+    "date": "2025-10-26",
+    "title": "2025 천안이봉주",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251026002"
+  },
+  {
     "event_no": "20251026001",
     "date": "2025-10-26",
     "title": "제17회 아름다운제주 국제 마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251026001"
   },
   {
+    "event_no": "2025102506",
+    "date": "2025-10-25",
+    "title": "2025 섬섬여수그란폰도KOM",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102506"
+  },
+  {
     "event_no": "2025102505",
     "date": "2025-10-25",
-    "title": "2025섬섬여수그란폰도",
+    "title": "2025 섬섬여수그란폰도",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102505"
   },
   {
@@ -46,17 +58,5 @@
     "date": "2025-10-25",
     "title": "프렌드쉽워크 코리아 2025",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102503"
-  },
-  {
-    "event_no": "2025102502",
-    "date": "2025-10-25",
-    "title": "제20회 사천노을마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102502"
-  },
-  {
-    "event_no": "20251025010",
-    "date": "2025-10-25",
-    "title": "2025 의정부시 하천 마라톤 전국대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251025010"
   }
 ]
