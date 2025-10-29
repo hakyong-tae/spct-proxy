@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2025110102",
+    "date": "2025-11-01",
+    "title": "파주DMZ 걷기대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110102"
+  },
+  {
+    "event_no": "2025110101",
+    "date": "2025-11-01",
+    "title": "제 2회 가든파이브 라이프 레이스",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110101"
+  },
+  {
+    "event_no": "20251101009",
+    "date": "2025-11-01",
+    "title": "2025 무안 해안 노을길 전국 걷기 및 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251101009"
+  },
+  {
     "event_no": "2025102604",
     "date": "2025-10-26",
     "title": "2025 청양군 체육회장기 전국마라톤",
@@ -40,23 +58,5 @@
     "date": "2025-10-25",
     "title": "2025 섬섬여수그란폰도KOM",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102506"
-  },
-  {
-    "event_no": "2025102505",
-    "date": "2025-10-25",
-    "title": "2025 섬섬여수그란폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102505"
-  },
-  {
-    "event_no": "2025102504",
-    "date": "2025-10-25",
-    "title": "2025 산림청장배 영양 산악마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102504"
-  },
-  {
-    "event_no": "2025102503",
-    "date": "2025-10-25",
-    "title": "프렌드쉽워크 코리아 2025",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102503"
   }
 ]
