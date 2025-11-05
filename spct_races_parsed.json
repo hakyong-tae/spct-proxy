@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2025110802",
+    "date": "2025-11-08",
+    "title": "제25회 순천남승룡마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110802"
+  },
+  {
+    "event_no": "2025110801",
+    "date": "2025-11-08",
+    "title": "2025 우이런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110801"
+  },
+  {
+    "event_no": "2025110701",
+    "date": "2025-11-07",
+    "title": "2025 서울시립대학교 체육회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110701"
+  },
+  {
     "event_no": "2025110203",
     "date": "2025-11-02",
     "title": "옥수수런 in 영월",
@@ -40,23 +58,5 @@
     "date": "2025-11-01",
     "title": "2025 무안 해안 노을길 전국 걷기 및 마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251101009"
-  },
-  {
-    "event_no": "2025102604",
-    "date": "2025-10-26",
-    "title": "2025 청양군 체육회장기 전국마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102604"
-  },
-  {
-    "event_no": "2025102603",
-    "date": "2025-10-26",
-    "title": "제37회 전라남도생활체육대축전",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102603"
-  },
-  {
-    "event_no": "2025102602",
-    "date": "2025-10-26",
-    "title": "제 7회 유성국화마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025102602"
   }
 ]
