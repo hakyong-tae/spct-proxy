@@ -1,5 +1,47 @@
 [
   {
+    "event_no": "2025110907",
+    "date": "2025-11-09",
+    "title": "제 1회 대구마라톤협회장배",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110907"
+  },
+  {
+    "event_no": "2025110906",
+    "date": "2025-11-09",
+    "title": "2025 블루런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110906"
+  },
+  {
+    "event_no": "2025110905",
+    "date": "2025-11-09",
+    "title": "2025 김해아름누리길마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110905"
+  },
+  {
+    "event_no": "2025110904",
+    "date": "2025-11-09",
+    "title": "제1회 세종특별자치시 전국마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110904"
+  },
+  {
+    "event_no": "2025110903",
+    "date": "2025-11-09",
+    "title": "제23회 나주금성산 숲길마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110903"
+  },
+  {
+    "event_no": "2025110902",
+    "date": "2025-11-09",
+    "title": "제11회 아산은행나무길마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110902"
+  },
+  {
+    "event_no": "2025110901",
+    "date": "2025-11-09",
+    "title": "제1회 완주 만경강 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110901"
+  },
+  {
     "event_no": "2025110802",
     "date": "2025-11-08",
     "title": "제25회 순천남승룡마라톤",
@@ -16,47 +58,5 @@
     "date": "2025-11-07",
     "title": "2025 서울시립대학교 체육회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110701"
-  },
-  {
-    "event_no": "2025110203",
-    "date": "2025-11-02",
-    "title": "옥수수런 in 영월",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110203"
-  },
-  {
-    "event_no": "2025110202",
-    "date": "2025-11-02",
-    "title": "2025 정읍프리마켓마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110202"
-  },
-  {
-    "event_no": "2025110201",
-    "date": "2025-11-02",
-    "title": "제36회 경상남도 생활체육대축전",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110201"
-  },
-  {
-    "event_no": "20251102009",
-    "date": "2025-11-02",
-    "title": "2025 전마협 대전 코리아 마스터즈 최강전 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251102009"
-  },
-  {
-    "event_no": "2025110103",
-    "date": "2025-11-01",
-    "title": "제6회 적벽강마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110103"
-  },
-  {
-    "event_no": "2025110101",
-    "date": "2025-11-01",
-    "title": "제 2회 가든파이브 라이프 레이스",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110101"
-  },
-  {
-    "event_no": "20251101009",
-    "date": "2025-11-01",
-    "title": "2025 무안 해안 노을길 전국 걷기 및 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251101009"
   }
 ]
