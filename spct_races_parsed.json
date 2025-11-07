@@ -32,7 +32,7 @@
   {
     "event_no": "2025110902",
     "date": "2025-11-09",
-    "title": "제11회 아산은행나무길마라톤",
+    "title": "제11회 아산은행나무길 전국 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110902"
   },
   {
@@ -42,21 +42,21 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110901"
   },
   {
+    "event_no": "20251109009",
+    "date": "2025-11-09",
+    "title": "제14회 부여 굿뜨래 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251109009"
+  },
+  {
+    "event_no": "2025110803",
+    "date": "2025-11-08",
+    "title": "2025 모여라 공항가족",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110803"
+  },
+  {
     "event_no": "2025110802",
     "date": "2025-11-08",
     "title": "제25회 순천남승룡마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110802"
-  },
-  {
-    "event_no": "2025110801",
-    "date": "2025-11-08",
-    "title": "2025 우이런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110801"
-  },
-  {
-    "event_no": "2025110701",
-    "date": "2025-11-07",
-    "title": "2025 서울시립대학교 체육회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110701"
   }
 ]
