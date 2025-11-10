@@ -24,6 +24,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110904"
   },
   {
+    "event_no": "2025110903",
+    "date": "2025-11-09",
+    "title": "제23회 나주금성산 숲길마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110903"
+  },
+  {
     "event_no": "2025110902",
     "date": "2025-11-09",
     "title": "제11회 아산은행나무길 전국 마라톤",
@@ -52,11 +58,5 @@
     "date": "2025-11-08",
     "title": "제25회 순천남승룡마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110802"
-  },
-  {
-    "event_no": "2025110801",
-    "date": "2025-11-08",
-    "title": "2025 우이런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110801"
   }
 ]
