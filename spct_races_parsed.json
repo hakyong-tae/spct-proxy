@@ -1,5 +1,41 @@
 [
   {
+    "event_no": "2025111604",
+    "date": "2025-11-16",
+    "title": "2025 손기정평화마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025111604"
+  },
+  {
+    "event_no": "2025111603",
+    "date": "2025-11-16",
+    "title": "2025 한강의기적마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025111603"
+  },
+  {
+    "event_no": "2025111602",
+    "date": "2025-11-16",
+    "title": "올림픽데이런2025 in 전주",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025111602"
+  },
+  {
+    "event_no": "20251116010",
+    "date": "2025-11-16",
+    "title": "제11회 창원특례시장배 광려천 마라톤 대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251116010"
+  },
+  {
+    "event_no": "2025111601",
+    "date": "2025-11-16",
+    "title": "제23회 고창고인돌마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025111601"
+  },
+  {
+    "event_no": "20251116001",
+    "date": "2025-11-16",
+    "title": "2025 제주감귤국제마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251116001"
+  },
+  {
     "event_no": "2025111502",
     "date": "2025-11-15",
     "title": "제 30회 여주시육상연맹회장배",
@@ -18,45 +54,9 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251115001"
   },
   {
-    "event_no": "2025110907",
-    "date": "2025-11-09",
-    "title": "제 1회 대구마라톤협회장배",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110907"
-  },
-  {
     "event_no": "2025110906",
     "date": "2025-11-09",
     "title": "2025 블루런",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110906"
-  },
-  {
-    "event_no": "2025110905",
-    "date": "2025-11-09",
-    "title": "2025김해아름누리길 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110905"
-  },
-  {
-    "event_no": "2025110904",
-    "date": "2025-11-09",
-    "title": "제1회 세종특별자치시 전국마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110904"
-  },
-  {
-    "event_no": "2025110903",
-    "date": "2025-11-09",
-    "title": "제23회 나주금성산 숲길마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110903"
-  },
-  {
-    "event_no": "2025110902",
-    "date": "2025-11-09",
-    "title": "제11회 아산은행나무길 전국 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110902"
-  },
-  {
-    "event_no": "2025110901",
-    "date": "2025-11-09",
-    "title": "제1회 완주 만경강 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110901"
   }
 ]
