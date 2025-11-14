@@ -30,6 +30,18 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025111601"
   },
   {
+    "event_no": "20251116009",
+    "date": "2025-11-16",
+    "title": "제23회 상주곶감 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251116009"
+  },
+  {
+    "event_no": "20251116002",
+    "date": "2025-11-16",
+    "title": "제21회 2025 제주감귤국제마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251116002"
+  },
+  {
     "event_no": "20251116001",
     "date": "2025-11-16",
     "title": "2025 제주감귤국제마라톤",
@@ -44,19 +56,7 @@
   {
     "event_no": "2025111501",
     "date": "2025-11-15",
-    "title": "제14회 행복한가게마라톤",
+    "title": "제 14회 행복한가게 마라톤 대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025111501"
-  },
-  {
-    "event_no": "20251115001",
-    "date": "2025-11-15",
-    "title": "2025 충북형 몸활동 포(4)유 마라톤 축제",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251115001"
-  },
-  {
-    "event_no": "2025110906",
-    "date": "2025-11-09",
-    "title": "2025 블루런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025110906"
   }
 ]
