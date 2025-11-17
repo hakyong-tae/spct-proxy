@@ -42,12 +42,6 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251116002"
   },
   {
-    "event_no": "20251116001",
-    "date": "2025-11-16",
-    "title": "2025 제주감귤국제마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251116001"
-  },
-  {
     "event_no": "2025111502",
     "date": "2025-11-15",
     "title": "제 30회 여주시육상연맹회장배",
@@ -58,5 +52,11 @@
     "date": "2025-11-15",
     "title": "제 14회 행복한가게 마라톤 대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025111501"
+  },
+  {
+    "event_no": "20251115001",
+    "date": "2025-11-15",
+    "title": "2025 충북형 몸활동 포(4)유 마라톤 축제",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251115001"
   }
 ]
