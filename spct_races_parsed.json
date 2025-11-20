@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2025112301",
+    "date": "2025-11-23",
+    "title": "2025 김대중 평화 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025112301"
+  },
+  {
     "event_no": "20251122010",
     "date": "2025-11-22",
     "title": "2025 경기도지사배 육상경기",
@@ -52,11 +58,5 @@
     "date": "2025-11-16",
     "title": "제21회 2025 제주감귤국제마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251116002"
-  },
-  {
-    "event_no": "2025111502",
-    "date": "2025-11-15",
-    "title": "제 30회 여주시육상연맹회장배",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025111502"
   }
 ]
