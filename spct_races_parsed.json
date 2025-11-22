@@ -6,6 +6,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025112301"
   },
   {
+    "event_no": "20251123009",
+    "date": "2025-11-23",
+    "title": "2025 남원 춘향 전국 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251123009"
+  },
+  {
     "event_no": "20251122010",
     "date": "2025-11-22",
     "title": "2025 경기도지사배 육상경기",
@@ -52,11 +58,5 @@
     "date": "2025-11-16",
     "title": "제23회 상주곶감 마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251116009"
-  },
-  {
-    "event_no": "20251116002",
-    "date": "2025-11-16",
-    "title": "제21회 2025 제주감귤국제마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251116002"
   }
 ]
