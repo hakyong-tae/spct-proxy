@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2025112901",
+    "date": "2025-11-29",
+    "title": "월미도10km",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025112901"
+  },
+  {
     "event_no": "2025112301",
     "date": "2025-11-23",
     "title": "2025 김대중 평화 마라톤",
@@ -52,11 +58,5 @@
     "date": "2025-11-16",
     "title": "제23회 고창고인돌마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025111601"
-  },
-  {
-    "event_no": "20251116009",
-    "date": "2025-11-16",
-    "title": "제23회 상주곶감 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251116009"
   }
 ]
