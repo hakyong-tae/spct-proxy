@@ -18,9 +18,15 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025113001"
   },
   {
+    "event_no": "20251130009",
+    "date": "2025-11-30",
+    "title": "2025 전마협 별들의 전쟁&꽃들의 전쟁 (하프)",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251130009"
+  },
+  {
     "event_no": "2025112901",
     "date": "2025-11-29",
-    "title": "월미도10km",
+    "title": "2025 서울신문 월미런 with PET",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025112901"
   },
   {
@@ -52,11 +58,5 @@
     "date": "2025-11-16",
     "title": "2025 손기정평화마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025111604"
-  },
-  {
-    "event_no": "2025111603",
-    "date": "2025-11-16",
-    "title": "2025 한강의기적 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025111603"
   }
 ]
