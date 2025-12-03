@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2025120601",
+    "date": "2025-12-06",
+    "title": "제22회 한강시민 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025120601"
+  },
+  {
     "event_no": "2025113003",
     "date": "2025-11-30",
     "title": "2025 정읍 공동체 프리마켓 마라톤",
@@ -52,11 +58,5 @@
     "date": "2025-11-22",
     "title": "더 크루 선셋 기부런 in 강촌",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025112201"
-  },
-  {
-    "event_no": "2025111604",
-    "date": "2025-11-16",
-    "title": "2025 손기정평화마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025111604"
   }
 ]
