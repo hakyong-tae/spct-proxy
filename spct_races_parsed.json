@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2025120702",
+    "date": "2025-12-07",
+    "title": "2025 연륙교개통기념 WALK & RUN",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025120702"
+  },
+  {
     "event_no": "2025120701",
     "date": "2025-12-07",
     "title": "2025 화순고인돌마라톤대회",
@@ -52,11 +58,5 @@
     "date": "2025-11-23",
     "title": "2025 남원 춘향 전국 마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251123009"
-  },
-  {
-    "event_no": "20251122010",
-    "date": "2025-11-22",
-    "title": "2025 경기도지사배 육상경기",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251122010"
   }
 ]
