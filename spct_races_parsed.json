@@ -2,7 +2,7 @@
   {
     "event_no": "2025120702",
     "date": "2025-12-07",
-    "title": "2025 연륙교개통기념 WALK & RUN",
+    "title": "2025 제3연륙교 WALK & RUN",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025120702"
   },
   {
@@ -10,6 +10,12 @@
     "date": "2025-12-07",
     "title": "2025 화순고인돌마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025120701"
+  },
+  {
+    "event_no": "20251207009",
+    "date": "2025-12-07",
+    "title": "2025 전마협 Gold run race",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251207009"
   },
   {
     "event_no": "2025120601",
@@ -52,11 +58,5 @@
     "date": "2025-11-23",
     "title": "2025 김대중 평화 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025112301"
-  },
-  {
-    "event_no": "20251123009",
-    "date": "2025-11-23",
-    "title": "2025 남원 춘향 전국 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251123009"
   }
 ]
