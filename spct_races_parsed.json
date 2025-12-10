@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2025121301",
+    "date": "2025-12-13",
+    "title": "제3회 시즌오프레이스",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025121301"
+  },
+  {
     "event_no": "2025120702",
     "date": "2025-12-07",
     "title": "2025 제3연륙교 WALK & RUN",
@@ -52,11 +58,5 @@
     "date": "2025-11-29",
     "title": "2025 서울신문 월미런 with PET",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025112901"
-  },
-  {
-    "event_no": "2025112301",
-    "date": "2025-11-23",
-    "title": "2025 김대중 평화 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025112301"
   }
 ]
