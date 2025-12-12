@@ -18,6 +18,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025121301"
   },
   {
+    "event_no": "20251213001",
+    "date": "2025-12-13",
+    "title": "2025 시즌마감마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251213001"
+  },
+  {
     "event_no": "2025120702",
     "date": "2025-12-07",
     "title": "2025 제3연륙교 WALK & RUN",
@@ -52,11 +58,5 @@
     "date": "2025-11-30",
     "title": "2025유관순평화마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025113002"
-  },
-  {
-    "event_no": "2025113001",
-    "date": "2025-11-30",
-    "title": "2025 안양천단풍길마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025113001"
   }
 ]
