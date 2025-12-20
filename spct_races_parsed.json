@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "20251220009",
+    "date": "2025-12-20",
+    "title": "2025 전마협 송년 무료 초청 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=20251220009"
+  },
+  {
     "event_no": "2025121402",
     "date": "2025-12-14",
     "title": "2025부천시장배철인3종 장거리수영대회",
@@ -52,11 +58,5 @@
     "date": "2025-11-30",
     "title": "2025 정읍 공동체 프리마켓 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025113003"
-  },
-  {
-    "event_no": "2025113002",
-    "date": "2025-11-30",
-    "title": "2025유관순평화마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2025&EVENT_NO=2025113002"
   }
 ]
