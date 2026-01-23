@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "20260126008",
+    "date": "2026-01-26",
+    "title": "2026 전마협 제주 4Full 마라톤대회(4일차)",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260126008"
+  },
+  {
     "event_no": "2026012501",
     "date": "2026-01-25",
     "title": "제2회 한강 서울 하프 마라톤",
@@ -52,11 +58,5 @@
     "date": "2026-01-04",
     "title": "2026 전마협 새해 맞이 마라톤 대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260104009"
-  },
-  {
-    "event_no": "2026010101",
-    "date": "2026-01-01",
-    "title": "2026 새해일출런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026010101"
   }
 ]
