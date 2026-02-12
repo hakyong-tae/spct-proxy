@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2026021401",
+    "date": "2026-02-14",
+    "title": "트레이닝데이",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026021401"
+  },
+  {
     "event_no": "20260208091",
     "date": "2026-02-08",
     "title": "2026 전국로드레이스 대회(대설로 취소)",
@@ -52,11 +58,5 @@
     "date": "2026-01-24",
     "title": "2026 똥바람 알통구보대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026012401"
-  },
-  {
-    "event_no": "20260124009",
-    "date": "2026-01-24",
-    "title": "2026 전마협 제주 4Full 마라톤대회(2일차)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260124009"
   }
 ]
