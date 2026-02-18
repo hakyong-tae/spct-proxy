@@ -1,5 +1,17 @@
 [
   {
+    "event_no": "2026022102",
+    "date": "2026-02-21",
+    "title": "청춘릴레이마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026022102"
+  },
+  {
+    "event_no": "2026022101",
+    "date": "2026-02-21",
+    "title": "한마협동계",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026022101"
+  },
+  {
     "event_no": "2026021401",
     "date": "2026-02-14",
     "title": "2026 Training Day",
@@ -46,17 +58,5 @@
     "date": "2026-01-25",
     "title": "2026 전마협 제주 4Full 마라톤대회(3일차)",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260125009"
-  },
-  {
-    "event_no": "20260125008",
-    "date": "2026-01-25",
-    "title": "2026 전마협 제주 10km 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260125008"
-  },
-  {
-    "event_no": "2026012401",
-    "date": "2026-01-24",
-    "title": "2026 똥바람 알통구보대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026012401"
   }
 ]
