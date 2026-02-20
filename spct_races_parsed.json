@@ -6,6 +6,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260222091"
   },
   {
+    "event_no": "20260222009",
+    "date": "2026-02-22",
+    "title": "2026 전마협 청주 무심천 투데이 마라톤대회 (일)",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260222009"
+  },
+  {
     "event_no": "2026022102",
     "date": "2026-02-21",
     "title": "2026 청춘 릴레이 마라톤",
@@ -16,6 +22,18 @@
     "date": "2026-02-21",
     "title": "한마협동계",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026022101"
+  },
+  {
+    "event_no": "20260221009",
+    "date": "2026-02-21",
+    "title": "2026 전마협 청주 무심천 투데이 마라톤대회 (토)",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260221009"
+  },
+  {
+    "event_no": "20260221008",
+    "date": "2026-02-21",
+    "title": "2026 전마협 청주 무심천 노을 마라톤 대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260221008"
   },
   {
     "event_no": "2026021401",
@@ -40,23 +58,5 @@
     "date": "2026-02-08",
     "title": "2026 전마협 별들의 전쟁 & 꽃들의 전쟁 클럽대항전",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260208009"
-  },
-  {
-    "event_no": "20260131001",
-    "date": "2026-01-31",
-    "title": "2026 화성궁평항 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260131001"
-  },
-  {
-    "event_no": "20260126009",
-    "date": "2026-01-26",
-    "title": "2026 전마협 제주 4Full 마라톤대회(4일차)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260126009"
-  },
-  {
-    "event_no": "2026012501",
-    "date": "2026-01-25",
-    "title": "제2회 한강 서울 하프 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026012501"
   }
 ]
