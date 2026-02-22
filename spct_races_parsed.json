@@ -12,6 +12,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260222009"
   },
   {
+    "event_no": "20260222001",
+    "date": "2026-02-22",
+    "title": "2026 챌린지 레이스",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260222001"
+  },
+  {
     "event_no": "2026022102",
     "date": "2026-02-21",
     "title": "2026 청춘 릴레이 마라톤",
@@ -52,11 +58,5 @@
     "date": "2025-02-08",
     "title": "제3회 산들소리 향기마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026020801"
-  },
-  {
-    "event_no": "20260208009",
-    "date": "2026-02-08",
-    "title": "2026 전마협 별들의 전쟁 & 꽃들의 전쟁 클럽대항전",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260208009"
   }
 ]
