@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2026030702",
+    "date": "2026-03-07",
+    "title": "코리아오픈레이스",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026030702"
+  },
+  {
+    "event_no": "2026030701",
+    "date": "2026-03-07",
+    "title": "서울경기육상연맹하프마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026030701"
+  },
+  {
+    "event_no": "20260304001",
+    "date": "2026-03-04",
+    "title": "제1회 원담마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260304001"
+  },
+  {
     "event_no": "2026030102",
     "date": "2026-03-01",
     "title": "제 13회 안중근 평화 마라톤",
@@ -40,23 +58,5 @@
     "date": "2026-02-22",
     "title": "제주MBC 2026 국제평화마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260222091"
-  },
-  {
-    "event_no": "20260222009",
-    "date": "2026-02-22",
-    "title": "2026 전마협 청주 무심천 투데이 마라톤대회 (일)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260222009"
-  },
-  {
-    "event_no": "20260222001",
-    "date": "2026-02-22",
-    "title": "2026 챌린지 레이스",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260222001"
-  },
-  {
-    "event_no": "2026022102",
-    "date": "2026-02-21",
-    "title": "2026 청춘 릴레이 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026022102"
   }
 ]
