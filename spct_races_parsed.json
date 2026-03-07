@@ -8,13 +8,19 @@
   {
     "event_no": "2026030801",
     "date": "2026-03-08",
-    "title": "여의도벚꽃마라톤",
+    "title": "제16회 여의도벚꽃마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026030801"
+  },
+  {
+    "event_no": "20260308009",
+    "date": "2026-03-08",
+    "title": "2026 MBN 블루레이스 거제",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260308009"
   },
   {
     "event_no": "2026030702",
     "date": "2026-03-07",
-    "title": "코리아오픈레이스",
+    "title": "제4회 코리아오픈레이스",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026030702"
   },
   {
@@ -52,11 +58,5 @@
     "date": "2026-03-01",
     "title": "3.1절 107주년 기념 단축마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260301001"
-  },
-  {
-    "event_no": "2026022801",
-    "date": "2026-02-28",
-    "title": "2026 보스턴 영웅 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026022801"
   }
 ]
