@@ -1,5 +1,17 @@
 [
   {
+    "event_no": "2026032102",
+    "date": "2026-03-21",
+    "title": "2026 내포마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032102"
+  },
+  {
+    "event_no": "2026032101",
+    "date": "2026-03-21",
+    "title": "제17회 금융투자인 마라톤-Bulls race",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032101"
+  },
+  {
     "event_no": "20260314009",
     "date": "2026-03-14",
     "title": "2026 금산 인삼 웰빙 마라톤대회",
@@ -46,17 +58,5 @@
     "date": "2026-03-01",
     "title": "제61회 광주일보3.1절마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026030101"
-  },
-  {
-    "event_no": "20260301009",
-    "date": "2026-03-01",
-    "title": "2026 머니투데이방송 3.1절 마라톤대회(10km)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260301009"
-  },
-  {
-    "event_no": "20260301008",
-    "date": "2026-03-01",
-    "title": "2026 머니투데이방송 3.1절 마라톤대회(풀하프)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260301008"
   }
 ]
