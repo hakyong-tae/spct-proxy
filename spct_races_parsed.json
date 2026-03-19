@@ -1,5 +1,29 @@
 [
   {
+    "event_no": "2026032203",
+    "date": "2026-03-22",
+    "title": "시흥시 육상연맹 회장배 갯골 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032203"
+  },
+  {
+    "event_no": "2026032202",
+    "date": "2026-03-22",
+    "title": "불패마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032202"
+  },
+  {
+    "event_no": "2026032201",
+    "date": "2026-03-22",
+    "title": "2026 정읍동학마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032201"
+  },
+  {
+    "event_no": "20260322009",
+    "date": "2026-03-22",
+    "title": "제2회 영광 광풍 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260322009"
+  },
+  {
     "event_no": "2026032102",
     "date": "2026-03-21",
     "title": "2026 내포마라톤",
@@ -34,29 +58,5 @@
     "date": "2026-03-08",
     "title": "2026 MBN 블루레이스 거제",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260308009"
-  },
-  {
-    "event_no": "2026030702",
-    "date": "2026-03-07",
-    "title": "제4회 코리아오픈레이스",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026030702"
-  },
-  {
-    "event_no": "2026030701",
-    "date": "2026-03-07",
-    "title": "제 2회 서울경기육상연합 하프마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026030701"
-  },
-  {
-    "event_no": "2026030102",
-    "date": "2026-03-01",
-    "title": "제 13회 안중근 평화 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026030102"
-  },
-  {
-    "event_no": "2026030101",
-    "date": "2026-03-01",
-    "title": "제61회 광주일보3.1절마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026030101"
   }
 ]
