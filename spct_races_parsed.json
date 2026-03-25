@@ -1,5 +1,17 @@
 [
   {
+    "event_no": "2026032802",
+    "date": "2026-03-28",
+    "title": "유러닝페스티벌",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032802"
+  },
+  {
+    "event_no": "2026032801",
+    "date": "2026-03-28",
+    "title": "의성마늘",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032801"
+  },
+  {
     "event_no": "2026032203",
     "date": "2026-03-22",
     "title": "시흥시 육상연맹 회장배 갯골 마라톤",
@@ -46,17 +58,5 @@
     "date": "2026-03-08",
     "title": "2026 전국민 러닝크루 패밀리 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026030802"
-  },
-  {
-    "event_no": "2026030801",
-    "date": "2026-03-08",
-    "title": "제16회 여의도벚꽃마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026030801"
-  },
-  {
-    "event_no": "20260308009",
-    "date": "2026-03-08",
-    "title": "2026 MBN 블루레이스 거제",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260308009"
   }
 ]
