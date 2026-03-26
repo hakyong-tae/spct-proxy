@@ -1,5 +1,35 @@
 [
   {
+    "event_no": "2026032904",
+    "date": "2026-03-29",
+    "title": "2026 안양천 벚꽃마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032904"
+  },
+  {
+    "event_no": "2026032903",
+    "date": "2026-03-29",
+    "title": "제20회 정남진장흥마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032903"
+  },
+  {
+    "event_no": "2026032902",
+    "date": "2026-03-29",
+    "title": "2026 청라하늘대교마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032902"
+  },
+  {
+    "event_no": "2026032901",
+    "date": "2026-03-29",
+    "title": "제2회 한강 벚꽃마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032901"
+  },
+  {
+    "event_no": "20260329009",
+    "date": "2026-03-29",
+    "title": "2026 무주반딧불 하프마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260329009"
+  },
+  {
     "event_no": "2026032802",
     "date": "2026-03-28",
     "title": "유러닝페스티벌",
@@ -28,35 +58,5 @@
     "date": "2026-03-22",
     "title": "2026 정읍동학마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032201"
-  },
-  {
-    "event_no": "20260322009",
-    "date": "2026-03-22",
-    "title": "제2회 영광 광풍 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260322009"
-  },
-  {
-    "event_no": "2026032102",
-    "date": "2026-03-21",
-    "title": "2026 내포마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032102"
-  },
-  {
-    "event_no": "2026032101",
-    "date": "2026-03-21",
-    "title": "2026 BULLS RACE",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032101"
-  },
-  {
-    "event_no": "20260314009",
-    "date": "2026-03-14",
-    "title": "2026 금산 인삼 웰빙 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260314009"
-  },
-  {
-    "event_no": "2026030802",
-    "date": "2026-03-08",
-    "title": "2026 전국민 러닝크루 패밀리 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026030802"
   }
 ]
