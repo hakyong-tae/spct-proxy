@@ -1,5 +1,41 @@
 [
   {
+    "event_no": "2026040504",
+    "date": "2026-04-05",
+    "title": "2026 무해런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026040504"
+  },
+  {
+    "event_no": "2026040503",
+    "date": "2026-04-05",
+    "title": "제1회 전남대518캠퍼스 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026040503"
+  },
+  {
+    "event_no": "2026040502",
+    "date": "2026-04-05",
+    "title": "2026 서울봄꽃레이스",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026040502"
+  },
+  {
+    "event_no": "2026040501",
+    "date": "2026-04-05",
+    "title": "진주남강마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026040501"
+  },
+  {
+    "event_no": "20260405009",
+    "date": "2026-04-05",
+    "title": "제27회 이천 도자기 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260405009"
+  },
+  {
+    "event_no": "20260405006",
+    "date": "2026-04-05",
+    "title": "2026 영주소백산마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260405006"
+  },
+  {
     "event_no": "2026040402",
     "date": "2026-04-04",
     "title": "대한경제마라톤",
@@ -12,51 +48,15 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026040401"
   },
   {
+    "event_no": "20260404001",
+    "date": "2026-04-04",
+    "title": "k 국방마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260404001"
+  },
+  {
     "event_no": "2026032904",
     "date": "2026-03-29",
     "title": "2026 안양천 벚꽃 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032904"
-  },
-  {
-    "event_no": "2026032903",
-    "date": "2026-03-29",
-    "title": "제20회 정남진장흥마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032903"
-  },
-  {
-    "event_no": "2026032902",
-    "date": "2026-03-29",
-    "title": "청라 하늘대교마라톤 2026",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032902"
-  },
-  {
-    "event_no": "2026032901",
-    "date": "2026-03-29",
-    "title": "제2회 한강 벚꽃 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032901"
-  },
-  {
-    "event_no": "20260329009",
-    "date": "2026-03-29",
-    "title": "2026 무주반딧불 하프마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260329009"
-  },
-  {
-    "event_no": "2026032802",
-    "date": "2026-03-28",
-    "title": "2026 유러닝페스타",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032802"
-  },
-  {
-    "event_no": "2026032801",
-    "date": "2026-03-28",
-    "title": "제2회 의성마늘마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032801"
-  },
-  {
-    "event_no": "2026032203",
-    "date": "2026-03-22",
-    "title": "시흥시 육상연맹 회장배 갯골 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026032203"
   }
 ]
