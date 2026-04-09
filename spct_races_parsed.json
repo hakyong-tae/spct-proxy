@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2026041203",
+    "date": "2026-04-12",
+    "title": "해남산이정원마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041203"
+  },
+  {
+    "event_no": "2026041202",
+    "date": "2026-04-12",
+    "title": "가든파이브레이스",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041202"
+  },
+  {
+    "event_no": "2026041201",
+    "date": "2026-04-12",
+    "title": "2026 안양천 벚꽃 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041201"
+  },
+  {
     "event_no": "2026041104",
     "date": "2026-04-11",
     "title": "청남대울트라마라톤",
@@ -14,7 +32,7 @@
   {
     "event_no": "2026041102",
     "date": "2026-04-11",
-    "title": "제15회 행복한가게 마라톤",
+    "title": "제15회 행복한가게 마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041102"
   },
   {
@@ -40,23 +58,5 @@
     "date": "2026-04-05",
     "title": "2026 서울봄꽃레이스",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026040502"
-  },
-  {
-    "event_no": "2026040501",
-    "date": "2026-04-05",
-    "title": "2026 진주남강마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026040501"
-  },
-  {
-    "event_no": "20260405009",
-    "date": "2026-04-05",
-    "title": "제27회 이천 도자기 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260405009"
-  },
-  {
-    "event_no": "20260405006",
-    "date": "2026-04-05",
-    "title": "2026 영주소백산마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260405006"
   }
 ]
