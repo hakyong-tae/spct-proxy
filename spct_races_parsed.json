@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2026041301",
+    "date": "2026-04-13",
+    "title": "전남도민체전",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041301"
+  },
+  {
     "event_no": "2026041203",
     "date": "2026-04-12",
     "title": "해남산이정원마라톤",
@@ -8,7 +14,7 @@
   {
     "event_no": "2026041202",
     "date": "2026-04-12",
-    "title": "가든파이브레이스",
+    "title": "제3회 가든파이브 레이스",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041202"
   },
   {
@@ -52,11 +58,5 @@
     "date": "2026-04-05",
     "title": "2026 전남대 518 캠퍼스 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026040503"
-  },
-  {
-    "event_no": "2026040502",
-    "date": "2026-04-05",
-    "title": "2026 서울봄꽃레이스",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026040502"
   }
 ]
