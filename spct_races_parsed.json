@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "20260418006",
+    "date": "2026-04-18",
+    "title": "제72회 경기도체육대회광주",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260418006"
+  },
+  {
     "event_no": "2026041301",
     "date": "2026-04-13",
     "title": "제65회 전남체전 단축마라톤",
@@ -52,11 +58,5 @@
     "date": "2026-04-05",
     "title": "2026 무해런",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026040504"
-  },
-  {
-    "event_no": "2026040503",
-    "date": "2026-04-05",
-    "title": "2026 전남대 518 캠퍼스 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026040503"
   }
 ]
