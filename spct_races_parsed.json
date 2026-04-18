@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2026042101",
+    "date": "2026-04-21",
+    "title": "2026 스마트산단마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042101"
+  },
+  {
     "event_no": "2026041905",
     "date": "2026-04-19",
     "title": "제65회 경상남도도민체전-로드레이스",
@@ -7,8 +13,8 @@
   },
   {
     "event_no": "2026041904",
-    "date": "2026-04-19",
-    "title": "제2회 서육복마라톤",
+    "date": "2026-04-17",
+    "title": "제2회 마포 서윤복 마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041904"
   },
   {
@@ -52,11 +58,5 @@
     "date": "2026-04-12",
     "title": "산이정원 패밀리 ESG RACE STEP 1",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041203"
-  },
-  {
-    "event_no": "2026041202",
-    "date": "2026-04-12",
-    "title": "제3회 가든파이브 레이스",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041202"
   }
 ]
