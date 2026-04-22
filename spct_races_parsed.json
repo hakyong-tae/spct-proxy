@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2026042503",
+    "date": "2026-04-25",
+    "title": "하이록스 챌린지 in 스타필드 안성",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042503"
+  },
+  {
+    "event_no": "2026042501",
+    "date": "2026-04-25",
+    "title": "2026  홍천 클래식 그란폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042501"
+  },
+  {
+    "event_no": "20260425009",
+    "date": "2026-04-25",
+    "title": "제30회 삼척 황영조 국제 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260425009"
+  },
+  {
     "event_no": "2026042101",
     "date": "2026-04-21",
     "title": "2026 스마트산단 마라톤 대회",
@@ -40,23 +58,5 @@
     "date": "2026-04-19",
     "title": "제24회 경기마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260419006"
-  },
-  {
-    "event_no": "20260418006",
-    "date": "2026-04-18",
-    "title": "제72회 경기도체육대회광주",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260418006"
-  },
-  {
-    "event_no": "2026041301",
-    "date": "2026-04-13",
-    "title": "제65회 전남체전 단축마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041301"
-  },
-  {
-    "event_no": "2026041203",
-    "date": "2026-04-12",
-    "title": "산이정원 패밀리 ESG RACE STEP 1",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041203"
   }
 ]
