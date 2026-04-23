@@ -1,5 +1,29 @@
 [
   {
+    "event_no": "20260426091",
+    "date": "2026-04-26",
+    "title": "2026 평화의섬 제주 국제마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260426091"
+  },
+  {
+    "event_no": "2026042602",
+    "date": "2026-04-26",
+    "title": "2026 송도 WLAK & RUN",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042602"
+  },
+  {
+    "event_no": "2026042601",
+    "date": "2026-04-26",
+    "title": "제16회구리시장배건강달리기",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042601"
+  },
+  {
+    "event_no": "20260426009",
+    "date": "2026-04-26",
+    "title": "제4회 아산 이순신 백의종군길 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260426009"
+  },
+  {
     "event_no": "2026042503",
     "date": "2026-04-25",
     "title": "하이록스 챌린지 in 스타필드 안성",
@@ -14,7 +38,7 @@
   {
     "event_no": "20260425009",
     "date": "2026-04-25",
-    "title": "제30회 삼척 황영조 국제 마라톤대회",
+    "title": "제30회 삼척 황영조 국제 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260425009"
   },
   {
@@ -31,32 +55,8 @@
   },
   {
     "event_no": "2026041904",
-    "date": "2026-04-17",
+    "date": "2026-04-19",
     "title": "제2회 마포 서윤복 마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041904"
-  },
-  {
-    "event_no": "2026041903",
-    "date": "2026-04-19",
-    "title": "제23회 호남마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041903"
-  },
-  {
-    "event_no": "2026041902",
-    "date": "2026-04-19",
-    "title": "2026 제21회 세종특별자치시 복사꽃마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041902"
-  },
-  {
-    "event_no": "2026041901",
-    "date": "2026-04-19",
-    "title": "2026 부안해변마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041901"
-  },
-  {
-    "event_no": "20260419006",
-    "date": "2026-04-19",
-    "title": "제24회 경기마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260419006"
   }
 ]
