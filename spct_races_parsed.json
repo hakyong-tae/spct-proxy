@@ -8,7 +8,7 @@
   {
     "event_no": "2026042602",
     "date": "2026-04-26",
-    "title": "2026 송도 WLAK & RUN",
+    "title": "2026 송도 wlak & run",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042602"
   },
   {
@@ -26,13 +26,19 @@
   {
     "event_no": "2026042503",
     "date": "2026-04-25",
-    "title": "하이록스 챌린지 in 스타필드 안성",
+    "title": "하이록스 원데이 클래스 in 스타필드 안성",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042503"
+  },
+  {
+    "event_no": "2026042502",
+    "date": "2026-04-25",
+    "title": "2026 홍천 클래식 그란폰도(kom)",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042502"
   },
   {
     "event_no": "2026042501",
     "date": "2026-04-25",
-    "title": "2026  홍천 클래식 그란폰도",
+    "title": "2026 홍천 클래식 그란폰도",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042501"
   },
   {
@@ -52,11 +58,5 @@
     "date": "2026-04-19",
     "title": "제65회 경상남도도민체전-로드레이스",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041905"
-  },
-  {
-    "event_no": "2026041904",
-    "date": "2026-04-19",
-    "title": "제2회 마포 서윤복 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041904"
   }
 ]
