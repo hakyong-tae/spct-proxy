@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2026050201",
+    "date": "2026-05-02",
+    "title": "제26회 5.18마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026050201"
+  },
+  {
     "event_no": "20260426091",
     "date": "2026-04-26",
     "title": "2026 평화의섬 제주 국제마라톤대회",
@@ -52,11 +58,5 @@
     "date": "2026-04-21",
     "title": "2026 스마트산단 마라톤 대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042101"
-  },
-  {
-    "event_no": "2026041905",
-    "date": "2026-04-19",
-    "title": "제65회 경상남도도민체전-로드레이스",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026041905"
   }
 ]
