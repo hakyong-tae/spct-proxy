@@ -1,9 +1,27 @@
 [
   {
+    "event_no": "2026050302",
+    "date": "2026-05-03",
+    "title": "2026 전국의병 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026050302"
+  },
+  {
+    "event_no": "2026050301",
+    "date": "2026-05-03",
+    "title": "하트시그널 러닝페스타",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026050301"
+  },
+  {
     "event_no": "2026050201",
     "date": "2026-05-02",
     "title": "제26회 5.18마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026050201"
+  },
+  {
+    "event_no": "20260502009",
+    "date": "2026-05-02",
+    "title": "제21회 보성녹차 마라톤 대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260502009"
   },
   {
     "event_no": "20260426091",
@@ -40,23 +58,5 @@
     "date": "2026-04-25",
     "title": "2026 홍천 클래식 그란폰도(kom)",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042502"
-  },
-  {
-    "event_no": "2026042501",
-    "date": "2026-04-25",
-    "title": "2026 홍천 클래식 그란폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042501"
-  },
-  {
-    "event_no": "20260425009",
-    "date": "2026-04-25",
-    "title": "제30회 삼척 황영조 국제 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260425009"
-  },
-  {
-    "event_no": "2026042101",
-    "date": "2026-04-21",
-    "title": "2026 스마트산단 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042101"
   }
 ]
