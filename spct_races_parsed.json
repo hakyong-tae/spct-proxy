@@ -12,6 +12,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026050301"
   },
   {
+    "event_no": "2026050202",
+    "date": "2026-05-02",
+    "title": "제7회 적벽강 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026050202"
+  },
+  {
     "event_no": "2026050201",
     "date": "2026-05-02",
     "title": "제26회 5.18마라톤",
@@ -52,11 +58,5 @@
     "date": "2026-04-25",
     "title": "하이록스 원데이 클래스 in 스타필드 안성",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042503"
-  },
-  {
-    "event_no": "2026042502",
-    "date": "2026-04-25",
-    "title": "2026 홍천 클래식 그란폰도(kom)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042502"
   }
 ]
