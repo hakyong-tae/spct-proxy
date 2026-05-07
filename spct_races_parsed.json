@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "20260510091",
+    "date": "2026-05-10",
+    "title": "제60회 제주특별자치도민체육대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260510091"
+  },
+  {
+    "event_no": "2026051002",
+    "date": "2026-05-10",
+    "title": "제31회 여주시육상연맹회장배 단축마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026051002"
+  },
+  {
+    "event_no": "2026051001",
+    "date": "2026-05-10",
+    "title": "하하호호마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026051001"
+  },
+  {
     "event_no": "20260505001",
     "date": "2026-05-05",
     "title": "제27회 화성효마라톤",
@@ -40,23 +58,5 @@
     "date": "2026-04-26",
     "title": "2026 평화의섬 제주 국제마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260426091"
-  },
-  {
-    "event_no": "2026042602",
-    "date": "2026-04-26",
-    "title": "2026 송도 walk & run",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042602"
-  },
-  {
-    "event_no": "2026042601",
-    "date": "2026-04-26",
-    "title": "제16회 구리시장기 건강달리기대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026042601"
-  },
-  {
-    "event_no": "20260426009",
-    "date": "2026-04-26",
-    "title": "제4회 아산 이순신 백의종군길 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260426009"
   }
 ]
