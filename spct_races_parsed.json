@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2026051601",
+    "date": "2026-05-16",
+    "title": "2026 생물다양성 마라톤_다다다런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026051601"
+  },
+  {
     "event_no": "20260510091",
     "date": "2026-05-10",
     "title": "제60회 제주특별자치도민체육대회 10km 단축마라톤대회",
@@ -52,11 +58,5 @@
     "date": "2026-05-02",
     "title": "제7회 적벽강 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026050202"
-  },
-  {
-    "event_no": "2026050201",
-    "date": "2026-05-02",
-    "title": "제26회 5.18마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026050201"
   }
 ]
