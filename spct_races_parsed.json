@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2026052303",
+    "date": "2026-05-23",
+    "title": "2026 안양천 장미꽃 축제 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026052303"
+  },
+  {
+    "event_no": "2026052302",
+    "date": "2026-05-23",
+    "title": "달려용. 인 2026 RUN FESTA",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026052302"
+  },
+  {
+    "event_no": "2026052301",
+    "date": "2026-05-23",
+    "title": "제31회 바다의날 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026052301"
+  },
+  {
     "event_no": "2026051702",
     "date": "2026-05-17",
     "title": "2026 서울시장기 마라톤",
@@ -40,23 +58,5 @@
     "date": "2026-05-10",
     "title": "제31회 여주시육상연맹회장배 단축마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026051002"
-  },
-  {
-    "event_no": "2026051001",
-    "date": "2026-05-16",
-    "title": "제1회 경기신문 씨사이드마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026051001"
-  },
-  {
-    "event_no": "20260510006",
-    "date": "2026-05-10",
-    "title": "제22회 대전 3대하천 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260510006"
-  },
-  {
-    "event_no": "20260510001",
-    "date": "2026-05-10",
-    "title": "2026 용인마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260510001"
   }
 ]
