@@ -1,5 +1,35 @@
 [
   {
+    "event_no": "2026053005",
+    "date": "2026-05-30",
+    "title": "제1회 광주대학교 수직마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053005"
+  },
+  {
+    "event_no": "2026053004",
+    "date": "2026-05-30",
+    "title": "2026 야반도주 in Busan",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053004"
+  },
+  {
+    "event_no": "2026053003",
+    "date": "2026-05-30",
+    "title": "여명마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053003"
+  },
+  {
+    "event_no": "2026053002",
+    "date": "2026-05-30",
+    "title": "2026 지구런평화마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053002"
+  },
+  {
+    "event_no": "2026053001",
+    "date": "2026-05-30",
+    "title": "2026 강남하프레이스",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053001"
+  },
+  {
     "event_no": "2026052303",
     "date": "2026-05-23",
     "title": "2026 안양천 장미꽃 마라톤",
@@ -28,35 +58,5 @@
     "date": "2026-05-17",
     "title": "2026 화천자전거랠리",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026051701"
-  },
-  {
-    "event_no": "20260517009",
-    "date": "2026-05-17",
-    "title": "2026 식품안전 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260517009"
-  },
-  {
-    "event_no": "2026051601",
-    "date": "2026-05-16",
-    "title": "2026 연구단지 생물다양성 다다다런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026051601"
-  },
-  {
-    "event_no": "20260516001",
-    "date": "2026-05-16",
-    "title": "제1회 경기신문 씨사이드마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260516001"
-  },
-  {
-    "event_no": "20260510091",
-    "date": "2026-05-10",
-    "title": "제60회 제주특별자치도민체육대회 10km 단축마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260510091"
-  },
-  {
-    "event_no": "2026051002",
-    "date": "2026-05-10",
-    "title": "제31회 여주시육상연맹회장배 단축마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026051002"
   }
 ]
