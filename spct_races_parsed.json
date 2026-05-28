@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2026053102",
+    "date": "2026-05-31",
+    "title": "제4회 밤섬마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053102"
+  },
+  {
+    "event_no": "2026053101",
+    "date": "2026-05-31",
+    "title": "울산고래마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053101"
+  },
+  {
+    "event_no": "20260531009",
+    "date": "2026-05-31",
+    "title": "전마협 창단 25주년 기념 2026 금산 월드런 마라톤축제",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260531009"
+  },
+  {
     "event_no": "2026053005",
     "date": "2026-05-30",
     "title": "제1회 광주대학교 수직마라톤",
@@ -14,7 +32,7 @@
   {
     "event_no": "2026053003",
     "date": "2026-05-30",
-    "title": "여명마라톤",
+    "title": "제18회 여명국제마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053003"
   },
   {
@@ -40,23 +58,5 @@
     "date": "2026-05-23",
     "title": "달려용. 인 2026 RUN FESTA",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026052302"
-  },
-  {
-    "event_no": "2026052301",
-    "date": "2026-05-23",
-    "title": "제31회 바다의날 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026052301"
-  },
-  {
-    "event_no": "2026051702",
-    "date": "2026-05-17",
-    "title": "2026 서울시장기 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026051702"
-  },
-  {
-    "event_no": "2026051701",
-    "date": "2026-05-17",
-    "title": "2026 화천자전거랠리",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026051701"
   }
 ]
