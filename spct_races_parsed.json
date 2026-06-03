@@ -1,5 +1,17 @@
 [
   {
+    "event_no": "2026060602",
+    "date": "2026-06-06",
+    "title": "2026 삼척그란폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026060602"
+  },
+  {
+    "event_no": "2026060601",
+    "date": "2026-06-06",
+    "title": "2026 푸른하늘런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026060601"
+  },
+  {
     "event_no": "2026053102",
     "date": "2026-05-31",
     "title": "2026 제4회 밤섬마라톤",
@@ -46,17 +58,5 @@
     "date": "2026-05-30",
     "title": "2026 강남하프레이스",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053001"
-  },
-  {
-    "event_no": "2026052303",
-    "date": "2026-05-23",
-    "title": "2026 안양천 장미꽃 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026052303"
-  },
-  {
-    "event_no": "2026052302",
-    "date": "2026-05-23",
-    "title": "달려용. 인 2026 RUN FESTA",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026052302"
   }
 ]
