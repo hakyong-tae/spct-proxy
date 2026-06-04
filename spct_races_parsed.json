@@ -1,5 +1,29 @@
 [
   {
+    "event_no": "20260607092",
+    "date": "2026-06-07",
+    "title": "제30회 제주국제관광 마라톤축제(하프.풀)",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260607092"
+  },
+  {
+    "event_no": "20260607091",
+    "date": "2026-06-07",
+    "title": "제30회 제주국제관광 마라톤축제(10km)",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260607091"
+  },
+  {
+    "event_no": "2026060702",
+    "date": "2026-06-07",
+    "title": "삼척그란폰도 ITT",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026060702"
+  },
+  {
+    "event_no": "2026060701",
+    "date": "2026-06-07",
+    "title": "제11회 너릿재 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026060701"
+  },
+  {
     "event_no": "2026060602",
     "date": "2026-06-06",
     "title": "2026 삼척그란폰도",
@@ -34,29 +58,5 @@
     "date": "2026-05-30",
     "title": "제1회 광주대학교 수직마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053005"
-  },
-  {
-    "event_no": "2026053004",
-    "date": "2026-05-30",
-    "title": "2026 야반도주 in BUSAN",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053004"
-  },
-  {
-    "event_no": "2026053003",
-    "date": "2026-05-30",
-    "title": "제18회 여명국제마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053003"
-  },
-  {
-    "event_no": "2026053002",
-    "date": "2026-05-30",
-    "title": "2026 지구런평화마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053002"
-  },
-  {
-    "event_no": "2026053001",
-    "date": "2026-05-30",
-    "title": "2026 강남하프레이스",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053001"
   }
 ]
