@@ -36,6 +36,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026060601"
   },
   {
+    "event_no": "20260606001",
+    "date": "2026-06-06",
+    "title": "양평이봉주마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260606001"
+  },
+  {
     "event_no": "2026053102",
     "date": "2026-05-31",
     "title": "2026 제4회 밤섬마라톤",
@@ -52,11 +58,5 @@
     "date": "2026-05-31",
     "title": "전마협 창단 25주년 기념 2026 금산 월드런 마라톤축제",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260531009"
-  },
-  {
-    "event_no": "2026053005",
-    "date": "2026-05-30",
-    "title": "제1회 광주대학교 수직마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026053005"
   }
 ]
