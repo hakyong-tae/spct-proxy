@@ -1,5 +1,41 @@
 [
   {
+    "event_no": "2026061404",
+    "date": "2026-06-14",
+    "title": "2026 한마음 생활체육대축전",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026061404"
+  },
+  {
+    "event_no": "2026061403",
+    "date": "2026-06-14",
+    "title": "2026 김해숲길마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026061403"
+  },
+  {
+    "event_no": "2026061402",
+    "date": "2026-06-14",
+    "title": "울릉도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026061402"
+  },
+  {
+    "event_no": "2026061401",
+    "date": "2026-06-14",
+    "title": "제22회 영덕해변전국마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026061401"
+  },
+  {
+    "event_no": "20260614009",
+    "date": "2026-06-14",
+    "title": "전마협 창단 25주년 기념 2026 대전 월드런 마라톤 축제",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260614009"
+  },
+  {
+    "event_no": "20260614001",
+    "date": "2026-06-14",
+    "title": "2026 창원시 한마음 생활대축전 육상경기대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260614001"
+  },
+  {
     "event_no": "20260613009",
     "date": "2026-06-13",
     "title": "제1회 모두런",
@@ -8,7 +44,7 @@
   {
     "event_no": "20260613006",
     "date": "2026-06-13",
-    "title": "경기도지사배 육상대회",
+    "title": "2026 경기도지사배 육상대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260613006"
   },
   {
@@ -22,41 +58,5 @@
     "date": "2026-06-07",
     "title": "제30회 제주국제관광 마라톤축제(10km)",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260607091"
-  },
-  {
-    "event_no": "2026060702",
-    "date": "2026-06-07",
-    "title": "2026 삼척 ITT",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026060702"
-  },
-  {
-    "event_no": "2026060701",
-    "date": "2026-06-07",
-    "title": "제11회 너릿재 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026060701"
-  },
-  {
-    "event_no": "2026060603",
-    "date": "2026-06-06",
-    "title": "2026 삼척그란폰도KOM",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026060603"
-  },
-  {
-    "event_no": "2026060602",
-    "date": "2026-06-06",
-    "title": "2026 삼척그란폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026060602"
-  },
-  {
-    "event_no": "2026060601",
-    "date": "2026-06-06",
-    "title": "2026 푸른하늘런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026060601"
-  },
-  {
-    "event_no": "20260606001",
-    "date": "2026-06-06",
-    "title": "양평이봉주마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260606001"
   }
 ]
