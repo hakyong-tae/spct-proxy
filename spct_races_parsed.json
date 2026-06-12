@@ -48,15 +48,15 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260613006"
   },
   {
+    "event_no": "20260613001",
+    "date": "2026-06-13",
+    "title": "2026 컬처런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260613001"
+  },
+  {
     "event_no": "20260607092",
     "date": "2026-06-07",
     "title": "제30회 제주국제관광 마라톤축제(하프 풀)",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260607092"
-  },
-  {
-    "event_no": "20260607091",
-    "date": "2026-06-07",
-    "title": "제30회 제주국제관광 마라톤축제(10km)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260607091"
   }
 ]
