@@ -1,11 +1,5 @@
 [
   {
-    "event_no": "2026061404",
-    "date": "2026-06-14",
-    "title": "2026 한마음 생활체육대축전",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026061404"
-  },
-  {
     "event_no": "2026061403",
     "date": "2026-06-14",
     "title": "2026 김해숲길마라톤",
@@ -58,5 +52,11 @@
     "date": "2026-06-07",
     "title": "제30회 제주국제관광 마라톤축제(하프 풀)",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260607092"
+  },
+  {
+    "event_no": "20260607091",
+    "date": "2026-06-07",
+    "title": "제30회 제주국제관광 마라톤축제(10km)",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260607091"
   }
 ]
