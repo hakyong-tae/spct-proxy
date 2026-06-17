@@ -1,5 +1,29 @@
 [
   {
+    "event_no": "2026062004",
+    "date": "2026-06-20",
+    "title": "2026 웰메이드런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026062004"
+  },
+  {
+    "event_no": "2026062003",
+    "date": "2026-06-20",
+    "title": "2026 국민행복마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026062003"
+  },
+  {
+    "event_no": "2026062002",
+    "date": "2026-06-20",
+    "title": "2026희망서울마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026062002"
+  },
+  {
+    "event_no": "2026062001",
+    "date": "2026-06-20",
+    "title": "2026 설악그란폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026062001"
+  },
+  {
     "event_no": "2026061403",
     "date": "2026-06-14",
     "title": "2026 김해숲길마라톤",
@@ -34,29 +58,5 @@
     "date": "2026-06-13",
     "title": "제1회 모두런",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260613009"
-  },
-  {
-    "event_no": "20260613006",
-    "date": "2026-06-13",
-    "title": "2026 경기도지사배 육상대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260613006"
-  },
-  {
-    "event_no": "20260613001",
-    "date": "2026-06-13",
-    "title": "2026 컬처런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260613001"
-  },
-  {
-    "event_no": "20260607092",
-    "date": "2026-06-07",
-    "title": "제30회 제주국제관광 마라톤축제(하프 풀)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260607092"
-  },
-  {
-    "event_no": "20260607091",
-    "date": "2026-06-07",
-    "title": "제30회 제주국제관광 마라톤축제(10km)",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260607091"
   }
 ]
