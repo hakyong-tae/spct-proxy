@@ -1,5 +1,17 @@
 [
   {
+    "event_no": "2026062101",
+    "date": "2026-06-21",
+    "title": "2026 참행복나눔 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026062101"
+  },
+  {
+    "event_no": "20260621009",
+    "date": "2026-06-21",
+    "title": "2026 보은 속리산 말티재 힐링 알몸 마라톤 대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260621009"
+  },
+  {
     "event_no": "2026062004",
     "date": "2026-06-20",
     "title": "2026 웰메이드런",
@@ -46,17 +58,5 @@
     "date": "2026-06-14",
     "title": "전마협 창단 25주년 기념 2026 대전 월드런 마라톤 축제",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260614009"
-  },
-  {
-    "event_no": "20260614001",
-    "date": "2026-06-14",
-    "title": "2026 창원시 한마음 생활대축전 육상경기대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260614001"
-  },
-  {
-    "event_no": "20260613009",
-    "date": "2026-06-13",
-    "title": "제1회 모두런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260613009"
   }
 ]
