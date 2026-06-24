@@ -1,5 +1,17 @@
 [
   {
+    "event_no": "2026062701",
+    "date": "2026-06-27",
+    "title": "2026 큰별 하프 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026062701"
+  },
+  {
+    "event_no": "20260627009",
+    "date": "2026-06-27",
+    "title": "2026 전마협 10km 연대별 최강전",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260627009"
+  },
+  {
     "event_no": "2026062101",
     "date": "2026-06-21",
     "title": "2026 참행복나눔 마라톤",
@@ -46,17 +58,5 @@
     "date": "2026-06-14",
     "title": "제21회 울릉도전국마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026061402"
-  },
-  {
-    "event_no": "2026061401",
-    "date": "2026-06-14",
-    "title": "제22회 영덕해변전국마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026061401"
-  },
-  {
-    "event_no": "20260614009",
-    "date": "2026-06-14",
-    "title": "전마협 창단 25주년 기념 2026 대전 월드런 마라톤 축제",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260614009"
   }
 ]
