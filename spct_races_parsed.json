@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2026070501",
+    "date": "2026-07-05",
+    "title": "노원구청장배",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026070501"
+  },
+  {
     "event_no": "2026062805",
     "date": "2026-06-28",
     "title": "2026 더페이서시리즈",
@@ -52,11 +58,5 @@
     "date": "2026-06-21",
     "title": "2026 참행복나눔 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026062101"
-  },
-  {
-    "event_no": "20260621009",
-    "date": "2026-06-21",
-    "title": "2026 보은 속리산 말티재 힐링 알몸 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260621009"
   }
 ]
