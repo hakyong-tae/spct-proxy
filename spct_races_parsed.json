@@ -6,6 +6,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026070501"
   },
   {
+    "event_no": "20260704009",
+    "date": "2026-07-04",
+    "title": "2026 전마협 하계 무료 훈련 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260704009"
+  },
+  {
     "event_no": "2026062805",
     "date": "2026-06-28",
     "title": "2026 더페이서시리즈",
@@ -52,11 +58,5 @@
     "date": "2026-06-27",
     "title": "2026 전마협 10km 연대별 최강전",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260627009"
-  },
-  {
-    "event_no": "2026062101",
-    "date": "2026-06-21",
-    "title": "2026 참행복나눔 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026062101"
   }
 ]
