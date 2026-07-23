@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2026072601",
+    "date": "2026-07-26",
+    "title": "2026 울주 해양레포츠대축전 아쿠아슬론",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026072601"
+  },
+  {
     "event_no": "2026071101",
     "date": "2026-07-11",
     "title": "하이록스 완도",
@@ -52,11 +58,5 @@
     "date": "2026-06-28",
     "title": "2026 울산 남구청장배 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026062802"
-  },
-  {
-    "event_no": "2026062801",
-    "date": "2026-06-28",
-    "title": "2026 서울런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026062801"
   }
 ]
