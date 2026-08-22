@@ -1,11 +1,5 @@
 [
   {
-    "event_no": "20260821001",
-    "date": "2026-08-21",
-    "title": "오늘도 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260821001"
-  },
-  {
     "event_no": "20260816091",
     "date": "2026-08-16",
     "title": "2026 HAPPY700 평창 대관령 전국 하프마라톤대회",
@@ -58,5 +52,11 @@
     "date": "2026-07-04",
     "title": "2026 전마협 하계 무료 훈련 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260704009"
+  },
+  {
+    "event_no": "2026062805",
+    "date": "2026-06-28",
+    "title": "2026 더페이서시리즈",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026062805"
   }
 ]
