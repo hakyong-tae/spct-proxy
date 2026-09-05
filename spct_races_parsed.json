@@ -30,6 +30,18 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260906001"
   },
   {
+    "event_no": "2026090506",
+    "date": "2026-09-05",
+    "title": "2026 문경새재그란폰도 그란콤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026090506"
+  },
+  {
+    "event_no": "2026090505",
+    "date": "2026-09-05",
+    "title": "2026 문경새재그란폰도 메디오콤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026090505"
+  },
+  {
     "event_no": "2026090504",
     "date": "2026-09-05",
     "title": "I LOVE 방송대 마라톤축제",
@@ -44,19 +56,7 @@
   {
     "event_no": "2026090502",
     "date": "2026-09-05",
-    "title": "제 23회 철원DMZ 국제평화마라톤",
+    "title": "제23회 철원DMZ 국제평화마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026090502"
-  },
-  {
-    "event_no": "2026090501",
-    "date": "2026-09-05",
-    "title": "2026 문경새재 그란폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026090501"
-  },
-  {
-    "event_no": "20260905001",
-    "date": "2026-09-05",
-    "title": "2026 안산 RAS FESTA 슬로우 달리기 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260905001"
   }
 ]
