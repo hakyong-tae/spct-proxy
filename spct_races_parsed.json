@@ -1,9 +1,39 @@
 [
   {
-    "event_no": "2026090603",
-    "date": "2026-09-06",
-    "title": "제 1회 문무대왕릉 바다수영대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026090603"
+    "event_no": "20260912091",
+    "date": "2026-09-12",
+    "title": "2026 제주 미니벨로 페스타",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260912091"
+  },
+  {
+    "event_no": "2026091203",
+    "date": "2026-09-12",
+    "title": "가평생활체육대축전자전거",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091203"
+  },
+  {
+    "event_no": "2026091202",
+    "date": "2026-09-12",
+    "title": "화이트런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091202"
+  },
+  {
+    "event_no": "2026091201",
+    "date": "2026-09-12",
+    "title": "양양강변",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091201"
+  },
+  {
+    "event_no": "20260912009",
+    "date": "2026-09-12",
+    "title": "제2회 초록우산 런웨이 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260912009"
+  },
+  {
+    "event_no": "20260912001",
+    "date": "2026-09-12",
+    "title": "가평생활대축전마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260912001"
   },
   {
     "event_no": "2026090602",
@@ -28,35 +58,5 @@
     "date": "2026-09-06",
     "title": "2026 비타런 페스타",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260906001"
-  },
-  {
-    "event_no": "2026090506",
-    "date": "2026-09-05",
-    "title": "2026 문경새재그란폰도 그란콤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026090506"
-  },
-  {
-    "event_no": "2026090505",
-    "date": "2026-09-05",
-    "title": "2026 문경새재그란폰도 메디오콤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026090505"
-  },
-  {
-    "event_no": "2026090504",
-    "date": "2026-09-05",
-    "title": "I LOVE 방송대 마라톤축제",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026090504"
-  },
-  {
-    "event_no": "2026090503",
-    "date": "2026-09-05",
-    "title": "Vrun 2026",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026090503"
-  },
-  {
-    "event_no": "2026090502",
-    "date": "2026-09-05",
-    "title": "제23회 철원DMZ 국제평화마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026090502"
   }
 ]
