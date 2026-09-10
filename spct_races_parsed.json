@@ -1,14 +1,44 @@
 [
   {
+    "event_no": "2026091304",
+    "date": "2026-09-13",
+    "title": "2026 경기도생활체육대축전 MTB",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091304"
+  },
+  {
+    "event_no": "2026091303",
+    "date": "2026-09-13",
+    "title": "인천철인3종",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091303"
+  },
+  {
+    "event_no": "2026091302",
+    "date": "2026-09-13",
+    "title": "2026 우먼스 아우라 트레일",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091302"
+  },
+  {
+    "event_no": "2026091301",
+    "date": "2026-09-13",
+    "title": "울진금강송",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091301"
+  },
+  {
+    "event_no": "20260913009",
+    "date": "2026-09-13",
+    "title": "달리는 세상 10km 런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260913009"
+  },
+  {
     "event_no": "20260912091",
     "date": "2026-09-12",
-    "title": "2026 제주 미니벨로 페스타",
+    "title": "제주 교촌 미니벨로 페스타",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260912091"
   },
   {
     "event_no": "2026091203",
     "date": "2026-09-12",
-    "title": "가평생활체육대축전자전거",
+    "title": "2026 경기도생활체육대축전 로드사이클",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091203"
   },
   {
@@ -28,35 +58,5 @@
     "date": "2026-09-12",
     "title": "제2회 초록우산 런웨이 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260912009"
-  },
-  {
-    "event_no": "20260912001",
-    "date": "2026-09-12",
-    "title": "가평생활대축전마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260912001"
-  },
-  {
-    "event_no": "2026090602",
-    "date": "2026-09-06",
-    "title": "2026 김대중 평화 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026090602"
-  },
-  {
-    "event_no": "2026090601",
-    "date": "2026-09-06",
-    "title": "희망드림 제23회 새벽강변국제마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026090601"
-  },
-  {
-    "event_no": "20260906009",
-    "date": "2026-09-06",
-    "title": "2026 전마협회장배 청주 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260906009"
-  },
-  {
-    "event_no": "20260906001",
-    "date": "2026-09-06",
-    "title": "2026 비타런 페스타",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260906001"
   }
 ]
