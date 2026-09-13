@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2026091601",
+    "date": "2026-09-16",
+    "title": "원빌딩마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091601"
+  },
+  {
     "event_no": "2026091305",
     "date": "2026-09-13",
     "title": "제19회 구로구청장배 안양천 단풍 마라톤대회",
@@ -52,11 +58,5 @@
     "date": "2026-09-12",
     "title": "2026 제2회 화이트런",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091202"
-  },
-  {
-    "event_no": "2026091201",
-    "date": "2026-09-12",
-    "title": "2026 양양 강변마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091201"
   }
 ]
