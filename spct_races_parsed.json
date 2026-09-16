@@ -1,8 +1,26 @@
 [
   {
+    "event_no": "2026091903",
+    "date": "2026-09-19",
+    "title": "제4회 문경시 청년의날 기념 문경 오미자런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091903"
+  },
+  {
+    "event_no": "2026091902",
+    "date": "2026-09-19",
+    "title": "2026 청년의날 남동런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091902"
+  },
+  {
+    "event_no": "2026091901",
+    "date": "2026-09-19",
+    "title": "2026 안양천 하프 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091901"
+  },
+  {
     "event_no": "2026091601",
     "date": "2026-09-16",
-    "title": "2026 원빌딩 사내마라톤",
+    "title": "2026 원빌딩 사내마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091601"
   },
   {
@@ -40,23 +58,5 @@
     "date": "2026-09-13",
     "title": "달리는 세상 10km 런",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260913009"
-  },
-  {
-    "event_no": "20260912091",
-    "date": "2026-09-12",
-    "title": "제주 교촌 미니벨로 페스타",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260912091"
-  },
-  {
-    "event_no": "2026091203",
-    "date": "2026-09-12",
-    "title": "2026 경기도생활체육대축전 로드사이클",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091203"
-  },
-  {
-    "event_no": "2026091202",
-    "date": "2026-09-12",
-    "title": "2026 제2회 화이트런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091202"
   }
 ]
