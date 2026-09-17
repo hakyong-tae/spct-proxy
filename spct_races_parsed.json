@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2026092003",
+    "date": "2026-09-20",
+    "title": "가평 자라섬",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026092003"
+  },
+  {
+    "event_no": "2026092002",
+    "date": "2026-09-20",
+    "title": "동대문마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026092002"
+  },
+  {
+    "event_no": "2026092001",
+    "date": "2026-09-20",
+    "title": "울산남구육상연맹 단축마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026092001"
+  },
+  {
     "event_no": "2026091903",
     "date": "2026-09-19",
     "title": "제4회 문경시 청년의날 기념 문경 오미자런",
@@ -18,6 +36,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091901"
   },
   {
+    "event_no": "20260919009",
+    "date": "2026-09-19",
+    "title": "2026 금산인삼축제 마라톤 대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260919009"
+  },
+  {
     "event_no": "2026091601",
     "date": "2026-09-16",
     "title": "2026 원빌딩 사내마라톤대회",
@@ -34,29 +58,5 @@
     "date": "2026-09-13",
     "title": "2026 경기도생활체육대축전 MTB",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091304"
-  },
-  {
-    "event_no": "2026091303",
-    "date": "2025-09-13",
-    "title": "IFEZ 철인 3종 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091303"
-  },
-  {
-    "event_no": "2026091302",
-    "date": "2026-09-13",
-    "title": "2026 우먼스 아우라 트레일",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091302"
-  },
-  {
-    "event_no": "2026091301",
-    "date": "2026-09-13",
-    "title": "2026 울진 금강송배 전국마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091301"
-  },
-  {
-    "event_no": "20260913009",
-    "date": "2026-09-13",
-    "title": "달리는 세상 10km 런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260913009"
   }
 ]
