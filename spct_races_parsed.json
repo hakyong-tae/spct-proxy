@@ -2,20 +2,32 @@
   {
     "event_no": "2026092003",
     "date": "2026-09-20",
-    "title": "가평 자라섬",
+    "title": "제19회 가평자라섬 전국마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026092003"
   },
   {
     "event_no": "2026092002",
     "date": "2026-09-20",
-    "title": "동대문마라톤",
+    "title": "2026 동대문마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026092002"
   },
   {
     "event_no": "2026092001",
     "date": "2026-09-20",
-    "title": "울산남구육상연맹 단축마라톤",
+    "title": "2026 남구육상연맹 회장배 단축 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026092001"
+  },
+  {
+    "event_no": "20260920009",
+    "date": "2026-09-20",
+    "title": "제2회 마포구청장배 마라톤 대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260920009"
+  },
+  {
+    "event_no": "20260920001",
+    "date": "2026-09-20",
+    "title": "2026 안산마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260920001"
   },
   {
     "event_no": "2026091903",
@@ -46,17 +58,5 @@
     "date": "2026-09-16",
     "title": "2026 원빌딩 사내마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091601"
-  },
-  {
-    "event_no": "2026091305",
-    "date": "2026-09-13",
-    "title": "제19회 구로구청장배 안양천 단풍 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091305"
-  },
-  {
-    "event_no": "2026091304",
-    "date": "2026-09-13",
-    "title": "2026 경기도생활체육대축전 MTB",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091304"
   }
 ]
