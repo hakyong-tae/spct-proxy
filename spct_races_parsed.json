@@ -1,5 +1,29 @@
 [
   {
+    "event_no": "2026100304",
+    "date": "2026-10-03",
+    "title": "ROKA 트레일런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100304"
+  },
+  {
+    "event_no": "2026100303",
+    "date": "2026-10-03",
+    "title": "2026 마스터즈 하프 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100303"
+  },
+  {
+    "event_no": "2026100302",
+    "date": "2026-10-03",
+    "title": "2026 춘천연합마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100302"
+  },
+  {
+    "event_no": "2026100301",
+    "date": "2026-10-03",
+    "title": "2026 상주그란폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100301"
+  },
+  {
     "event_no": "2026092003",
     "date": "2026-09-20",
     "title": "제19회 가평자라섬 전국마라톤",
@@ -34,29 +58,5 @@
     "date": "2026-09-19",
     "title": "제4회 문경시 청년의날기념 러닝페스타 오미자런",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091903"
-  },
-  {
-    "event_no": "2026091902",
-    "date": "2026-09-19",
-    "title": "2026 청년의날 남동런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091902"
-  },
-  {
-    "event_no": "2026091901",
-    "date": "2026-09-19",
-    "title": "2026 안양천 하프 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091901"
-  },
-  {
-    "event_no": "20260919009",
-    "date": "2026-09-19",
-    "title": "2026 금산인삼축제 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20260919009"
-  },
-  {
-    "event_no": "2026091601",
-    "date": "2026-09-16",
-    "title": "2026 원빌딩 사내마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026091601"
   }
 ]
