@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2026100502",
+    "date": "2026-10-05",
+    "title": "2026 양주 천일홍 가을 페스타마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100502"
+  },
+  {
+    "event_no": "2026100501",
+    "date": "2026-10-05",
+    "title": "인제 테디 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100501"
+  },
+  {
+    "event_no": "20261005001",
+    "date": "2026-10-05",
+    "title": "2026-10-05 시흥마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261005001"
+  },
+  {
     "event_no": "2026100403",
     "date": "2026-10-04",
     "title": "경주나이트런",
@@ -14,7 +32,7 @@
   {
     "event_no": "2026100401",
     "date": "2026-10-04",
-    "title": "달서하프마라톤",
+    "title": "제20회 달서하프마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100401"
   },
   {
@@ -40,23 +58,5 @@
     "date": "2026-10-03",
     "title": "2026 마스터즈 하프 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100303"
-  },
-  {
-    "event_no": "2026100302",
-    "date": "2026-10-03",
-    "title": "2026 춘천연합마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100302"
-  },
-  {
-    "event_no": "2026100301",
-    "date": "2026-10-03",
-    "title": "2026 상주그란폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100301"
-  },
-  {
-    "event_no": "20261003009",
-    "date": "2026-10-03",
-    "title": "2026 서산 코스모스 황금들녘 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261003009"
   }
 ]
