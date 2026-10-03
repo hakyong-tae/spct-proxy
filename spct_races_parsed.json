@@ -48,15 +48,15 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261004001"
   },
   {
-    "event_no": "2026100304",
+    "event_no": "2026100306",
     "date": "2026-10-03",
-    "title": "ROKA 트레일런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100304"
+    "title": "2026 상주그란폰도 미니벨로 KOM",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100306"
   },
   {
-    "event_no": "2026100303",
+    "event_no": "2026100305",
     "date": "2026-10-03",
-    "title": "2026 마스터즈 하프 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100303"
+    "title": "2026 상주그란폰도 KOM",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100305"
   }
 ]
