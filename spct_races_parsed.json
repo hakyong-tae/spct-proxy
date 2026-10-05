@@ -1,20 +1,26 @@
 [
   {
+    "event_no": "2026100801",
+    "date": "2026-10-08",
+    "title": "TKG Sporting Day",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100801"
+  },
+  {
     "event_no": "2026100502",
     "date": "2026-10-05",
-    "title": "2026 양주 천일홍 가을 페스타마라톤",
+    "title": "2026 양주 천일홍 가을 페스타",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100502"
   },
   {
     "event_no": "2026100501",
     "date": "2026-10-05",
-    "title": "인제 테디 마라톤",
+    "title": "2026 인제 테디베어 서킷런",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100501"
   },
   {
     "event_no": "20261005001",
     "date": "2026-10-05",
-    "title": "2026-10-05 시흥마라톤",
+    "title": "2026 시흥시전국하프마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261005001"
   },
   {
@@ -52,11 +58,5 @@
     "date": "2026-10-03",
     "title": "2026 상주그란폰도 미니벨로 KOM",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100306"
-  },
-  {
-    "event_no": "2026100305",
-    "date": "2026-10-03",
-    "title": "2026 상주그란폰도 KOM",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026100305"
   }
 ]
