@@ -1,5 +1,11 @@
 [
   {
+    "event_no": "2026101501",
+    "date": "2026-10-15",
+    "title": "2026 프랑스-한국수교 140주년 기념 달리기대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101501"
+  },
+  {
     "event_no": "20261011091",
     "date": "2026-10-11",
     "title": "2026 MBN 전국 나주 마라톤대회",
@@ -52,11 +58,5 @@
     "date": "2026-10-10",
     "title": "제4회 강서허준런(RUN)",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101001"
-  },
-  {
-    "event_no": "20261010009",
-    "date": "2026-10-10",
-    "title": "충주 앙성 비내길 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261010009"
   }
 ]
