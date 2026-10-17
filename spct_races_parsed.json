@@ -20,7 +20,7 @@
   {
     "event_no": "2026101801",
     "date": "2026-10-18",
-    "title": "2026 롯데스타일런",
+    "title": "2026 롯데 스타일런",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101801"
   },
   {
@@ -36,15 +36,21 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261018007"
   },
   {
+    "event_no": "2026101703",
+    "date": "2026-10-17",
+    "title": "2026 통영그란폰도 KOM",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101703"
+  },
+  {
     "event_no": "2026101702",
     "date": "2026-10-17",
-    "title": "경청마라톤",
+    "title": "2026 경청마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101702"
   },
   {
     "event_no": "2026101701",
     "date": "2026-10-17",
-    "title": "통영그란폰도",
+    "title": "2026 통영그란폰도",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101701"
   },
   {
@@ -52,11 +58,5 @@
     "date": "2026-10-17",
     "title": "2026 정선동강마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261017002"
-  },
-  {
-    "event_no": "20261017001",
-    "date": "2026-10-17",
-    "title": "청원생명쌀대청호",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261017001"
   }
 ]
