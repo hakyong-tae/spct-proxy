@@ -2,7 +2,7 @@
   {
     "event_no": "2026101804",
     "date": "2026-10-18",
-    "title": "제19회 중랑구청장배 장미 마라톤",
+    "title": "제 19회 증랑구청장배 장미마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101804"
   },
   {
@@ -30,12 +30,6 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261018009"
   },
   {
-    "event_no": "20261018007",
-    "date": "2026-10-18",
-    "title": "2026 파주개성인삼마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261018007"
-  },
-  {
     "event_no": "2026101703",
     "date": "2026-10-17",
     "title": "2026 통영그란폰도 KOM",
@@ -58,5 +52,11 @@
     "date": "2026-10-17",
     "title": "2026 정선동강마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261017002"
+  },
+  {
+    "event_no": "20261017001",
+    "date": "2026-10-17",
+    "title": "청원생명쌀대청호",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261017001"
   }
 ]
