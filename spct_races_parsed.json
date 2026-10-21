@@ -1,5 +1,53 @@
 [
   {
+    "event_no": "2026102405",
+    "date": "2026-10-24",
+    "title": "안동 run&music festival",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102405"
+  },
+  {
+    "event_no": "2026102404",
+    "date": "2026-10-24",
+    "title": "2026 무쓰런 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102404"
+  },
+  {
+    "event_no": "2026102403",
+    "date": "2026-10-24",
+    "title": "네이버웍스와 함께하는 SEJONG RUN 26",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102403"
+  },
+  {
+    "event_no": "2026102402",
+    "date": "2026-10-24",
+    "title": "여수섬섬그란폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102402"
+  },
+  {
+    "event_no": "2026102401",
+    "date": "2026-10-24",
+    "title": "2026 감성런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102401"
+  },
+  {
+    "event_no": "20261024007",
+    "date": "2026-10-24",
+    "title": "RUN WITH GO 사랑밭 기부런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261024007"
+  },
+  {
+    "event_no": "20261024002",
+    "date": "2026-10-24",
+    "title": "2026 화성오산교육가족 RAS슬로깅페스타",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261024002"
+  },
+  {
+    "event_no": "20261024001",
+    "date": "2026-10-24",
+    "title": "2026 런위드고",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261024001"
+  },
+  {
     "event_no": "2026101804",
     "date": "2026-10-18",
     "title": "제 19회 증랑구청장배 장미마라톤",
@@ -10,53 +58,5 @@
     "date": "2026-10-18",
     "title": "2026 아시아 오픈 마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101803"
-  },
-  {
-    "event_no": "2026101802",
-    "date": "2026-10-18",
-    "title": "제25회 대청호마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101802"
-  },
-  {
-    "event_no": "2026101801",
-    "date": "2026-10-18",
-    "title": "2026 스타일런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101801"
-  },
-  {
-    "event_no": "20261018009",
-    "date": "2026-10-18",
-    "title": "제23회 여주세종대왕 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261018009"
-  },
-  {
-    "event_no": "2026101703",
-    "date": "2026-10-17",
-    "title": "2026 통영그란폰도 KOM",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101703"
-  },
-  {
-    "event_no": "2026101702",
-    "date": "2026-10-17",
-    "title": "2026 경청마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101702"
-  },
-  {
-    "event_no": "2026101701",
-    "date": "2026-10-17",
-    "title": "2026 통영그란폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101701"
-  },
-  {
-    "event_no": "20261017002",
-    "date": "2026-10-17",
-    "title": "2026 정선동강마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261017002"
-  },
-  {
-    "event_no": "20261017001",
-    "date": "2026-10-17",
-    "title": "청원생명쌀대청호",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261017001"
   }
 ]
