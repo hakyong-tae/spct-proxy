@@ -1,5 +1,29 @@
 [
   {
+    "event_no": "20261025091",
+    "date": "2026-10-25",
+    "title": "2026 아름다운 제주 국제 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261025091"
+  },
+  {
+    "event_no": "2026102502",
+    "date": "2026-10-25",
+    "title": "K - RUN CHALLENGE",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102502"
+  },
+  {
+    "event_no": "2026102501",
+    "date": "2026-10-25",
+    "title": "2026 유성국화마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102501"
+  },
+  {
+    "event_no": "20261025001",
+    "date": "2026-10-25",
+    "title": "2026 청송사과 트레일런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261025001"
+  },
+  {
     "event_no": "2026102405",
     "date": "2026-10-24",
     "title": "안동 run&music festival",
@@ -34,29 +58,5 @@
     "date": "2026-10-24",
     "title": "RUN WITH GO 사랑밭 기부런",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261024007"
-  },
-  {
-    "event_no": "20261024002",
-    "date": "2026-10-24",
-    "title": "2026 화성오산교육가족 RAS슬로깅페스타",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261024002"
-  },
-  {
-    "event_no": "20261024001",
-    "date": "2026-10-24",
-    "title": "2026 런위드고",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261024001"
-  },
-  {
-    "event_no": "2026101804",
-    "date": "2026-10-18",
-    "title": "제 19회 증랑구청장배 장미마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101804"
-  },
-  {
-    "event_no": "2026101803",
-    "date": "2026-10-18",
-    "title": "2026 아시아 오픈 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026101803"
   }
 ]
