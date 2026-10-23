@@ -18,6 +18,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102501"
   },
   {
+    "event_no": "20261025002",
+    "date": "2026-10-25",
+    "title": "2026 광명평화마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261025002"
+  },
+  {
     "event_no": "20261025001",
     "date": "2026-10-25",
     "title": "2026 청송사과 트레일런",
@@ -32,7 +38,7 @@
   {
     "event_no": "2026102404",
     "date": "2026-10-24",
-    "title": "2026 무쓰런 마라톤",
+    "title": "2026 무쓰런",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102404"
   },
   {
@@ -50,13 +56,7 @@
   {
     "event_no": "2026102401",
     "date": "2026-10-24",
-    "title": "2026 감성런",
+    "title": "2026 3rd 감성런",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102401"
-  },
-  {
-    "event_no": "20261024007",
-    "date": "2026-10-24",
-    "title": "RUN WITH GO 사랑밭 기부런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261024007"
   }
 ]
