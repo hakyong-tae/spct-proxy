@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "2026103103",
+    "date": "2026-10-31",
+    "title": "2026 당진원런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026103103"
+  },
+  {
+    "event_no": "2026103102",
+    "date": "2026-10-31",
+    "title": "2026 영상강그란폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026103102"
+  },
+  {
+    "event_no": "2026103101",
+    "date": "2026-10-31",
+    "title": "2026 사천노을마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026103101"
+  },
+  {
     "event_no": "20261025091",
     "date": "2026-10-25",
     "title": "2026 아름다운 제주 국제 마라톤",
@@ -40,23 +58,5 @@
     "date": "2026-10-24",
     "title": "2026 SBS RUN&MUSIC FESTIVAL in 안동",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102405"
-  },
-  {
-    "event_no": "2026102404",
-    "date": "2026-10-24",
-    "title": "2026 무쓰런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102404"
-  },
-  {
-    "event_no": "2026102403",
-    "date": "2026-10-24",
-    "title": "네이버웍스와 함께하는 SEJONG RUN 26",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102403"
-  },
-  {
-    "event_no": "2026102402",
-    "date": "2026-10-24",
-    "title": "2026 섬섬여수그란폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102402"
   }
 ]
