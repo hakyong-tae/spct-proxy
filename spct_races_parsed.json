@@ -1,5 +1,35 @@
 [
   {
+    "event_no": "2026110104",
+    "date": "2026-11-01",
+    "title": "진주생활체육대축전",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110104"
+  },
+  {
+    "event_no": "2026110103",
+    "date": "2026-11-01",
+    "title": "영월옥수수런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110103"
+  },
+  {
+    "event_no": "2026110102",
+    "date": "2026-11-01",
+    "title": "26 서울동행마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110102"
+  },
+  {
+    "event_no": "2026110101",
+    "date": "2026-11-01",
+    "title": "제2회 대전 신채호 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110101"
+  },
+  {
+    "event_no": "20261101009",
+    "date": "2026-11-01",
+    "title": "2026 무안 해안 노을길 전국 걷기 및 마라톤 대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261101009"
+  },
+  {
     "event_no": "2026103103",
     "date": "2026-10-31",
     "title": "2026 당진원런",
@@ -18,45 +48,15 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026103101"
   },
   {
+    "event_no": "20261031009",
+    "date": "2026-10-31",
+    "title": "2026 중소기업인 기살리기 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261031009"
+  },
+  {
     "event_no": "20261025091",
     "date": "2026-10-25",
     "title": "2026 아름다운 제주 국제 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261025091"
-  },
-  {
-    "event_no": "2026102502",
-    "date": "2026-10-25",
-    "title": "K - RUN CHALLENGE",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102502"
-  },
-  {
-    "event_no": "2026102501",
-    "date": "2026-10-25",
-    "title": "제8회 유성국화 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102501"
-  },
-  {
-    "event_no": "20261025002",
-    "date": "2026-10-25",
-    "title": "2026 광명평화마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261025002"
-  },
-  {
-    "event_no": "20261025001",
-    "date": "2026-10-25",
-    "title": "2026 청송사과 트레일런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261025001"
-  },
-  {
-    "event_no": "2026102406",
-    "date": "2026-10-24",
-    "title": "2026 섬섬여수그란폰도 KOM",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102406"
-  },
-  {
-    "event_no": "2026102405",
-    "date": "2026-10-24",
-    "title": "2026 SBS RUN&MUSIC FESTIVAL in 안동",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026102405"
   }
 ]
