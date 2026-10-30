@@ -14,7 +14,7 @@
   {
     "event_no": "2026110102",
     "date": "2026-11-01",
-    "title": "26 서울동행마라톤",
+    "title": "2026 서울동행마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110102"
   },
   {
@@ -28,6 +28,12 @@
     "date": "2026-11-01",
     "title": "2026 무안 해안 노을길 전국 걷기 및 마라톤 대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261101009"
+  },
+  {
+    "event_no": "2026103104",
+    "date": "2026-10-31",
+    "title": "2026 INCHEON NIGHT RACE",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026103104"
   },
   {
     "event_no": "2026103103",
@@ -52,11 +58,5 @@
     "date": "2026-10-31",
     "title": "2026 중소기업인 기살리기 마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261031009"
-  },
-  {
-    "event_no": "20261025091",
-    "date": "2026-10-25",
-    "title": "2026 아름다운 제주 국제 마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261025091"
   }
 ]
