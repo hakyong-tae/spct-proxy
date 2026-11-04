@@ -1,5 +1,35 @@
 [
   {
+    "event_no": "2026110703",
+    "date": "2026-11-07",
+    "title": "안동 그란폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110703"
+  },
+  {
+    "event_no": "2026110702",
+    "date": "2026-11-07",
+    "title": "공익런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110702"
+  },
+  {
+    "event_no": "2026110701",
+    "date": "2026-11-07",
+    "title": "너랑나랑노랑 트레일",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110701"
+  },
+  {
+    "event_no": "20261107009",
+    "date": "2026-11-07",
+    "title": "멕시카나 런 with 펩시",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261107009"
+  },
+  {
+    "event_no": "20261107001",
+    "date": "2026-11-07",
+    "title": "경기교육공동체 한강마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261107001"
+  },
+  {
     "event_no": "2026110104",
     "date": "2026-11-01",
     "title": "제37회 경상남도생활체육대축전 로드레이스",
@@ -28,35 +58,5 @@
     "date": "2026-11-01",
     "title": "2026 무안 해안 노을길 전국 걷기 및 마라톤 대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261101009"
-  },
-  {
-    "event_no": "2026103104",
-    "date": "2026-10-31",
-    "title": "2026 INCHEON NIGHT RACE",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026103104"
-  },
-  {
-    "event_no": "2026103103",
-    "date": "2026-10-31",
-    "title": "2026 당진 원런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026103103"
-  },
-  {
-    "event_no": "2026103102",
-    "date": "2026-10-31",
-    "title": "2026 영산강그란폰도 in나주",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026103102"
-  },
-  {
-    "event_no": "2026103101",
-    "date": "2026-10-31",
-    "title": "2026 사천노을마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026103101"
-  },
-  {
-    "event_no": "20261031009",
-    "date": "2026-10-31",
-    "title": "2026 중소기업인 기살리기 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261031009"
   }
 ]
