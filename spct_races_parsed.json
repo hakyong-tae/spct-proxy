@@ -1,62 +1,62 @@
 [
   {
-    "event_no": "2026110703",
+    "event_no": "2026110810",
+    "date": "2026-11-08",
+    "title": "2026 안산RUN",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110810"
+  },
+  {
+    "event_no": "20261108091",
+    "date": "2026-11-08",
+    "title": "제24회 전국 나주금성산숲길 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261108091"
+  },
+  {
+    "event_no": "20261108050",
+    "date": "2026-11-08",
+    "title": "제3회 자유민주마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261108050"
+  },
+  {
+    "event_no": "2026110804",
+    "date": "2026-11-08",
+    "title": "제2회 대구협회장배 전국마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110804"
+  },
+  {
+    "event_no": "2026110803",
+    "date": "2026-11-08",
+    "title": "완주만경강마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110803"
+  },
+  {
+    "event_no": "2026110802",
+    "date": "2026-11-08",
+    "title": "제17회 강남구청장배육상대회 강남하프마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110802"
+  },
+  {
+    "event_no": "2026110801",
+    "date": "2026-11-08",
+    "title": "제12회 아산 은행나무길 전국 마라톤 대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110801"
+  },
+  {
+    "event_no": "20261108002",
+    "date": "2026-11-08",
+    "title": "2026 과천마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261108002"
+  },
+  {
+    "event_no": "2026110720",
     "date": "2026-11-07",
-    "title": "안동 그란폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110703"
+    "title": "제15회 부여 굿뜨래 마라톤 대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110720"
   },
   {
-    "event_no": "2026110702",
+    "event_no": "20261107050",
     "date": "2026-11-07",
-    "title": "공익런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110702"
-  },
-  {
-    "event_no": "2026110701",
-    "date": "2026-11-07",
-    "title": "너랑나랑노랑 트레일",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110701"
-  },
-  {
-    "event_no": "20261107009",
-    "date": "2026-11-07",
-    "title": "멕시카나 런 with 펩시",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261107009"
-  },
-  {
-    "event_no": "20261107001",
-    "date": "2026-11-07",
-    "title": "경기교육공동체 한강마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261107001"
-  },
-  {
-    "event_no": "2026110104",
-    "date": "2026-11-01",
-    "title": "제37회 경상남도생활체육대축전 로드레이스",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110104"
-  },
-  {
-    "event_no": "2026110103",
-    "date": "2026-11-01",
-    "title": "제2회 옥수수런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110103"
-  },
-  {
-    "event_no": "2026110102",
-    "date": "2026-11-01",
-    "title": "2026 서울동행마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110102"
-  },
-  {
-    "event_no": "2026110101",
-    "date": "2026-11-01",
-    "title": "제2회 신채호 마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110101"
-  },
-  {
-    "event_no": "20261101009",
-    "date": "2026-11-01",
-    "title": "2026 무안 해안 노을길 전국 걷기 및 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261101009"
+    "title": "2026 멕시카나 런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261107050"
   }
 ]
