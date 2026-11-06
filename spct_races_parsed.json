@@ -2,7 +2,7 @@
   {
     "event_no": "2026110810",
     "date": "2026-11-08",
-    "title": "2026 안산RUN",
+    "title": "2026 안산RUN마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110810"
   },
   {
@@ -16,6 +16,12 @@
     "date": "2026-11-08",
     "title": "제3회 자유민주마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261108050"
+  },
+  {
+    "event_no": "2026110805",
+    "date": "2026-11-08",
+    "title": "청양칠갑마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110805"
   },
   {
     "event_no": "2026110804",
@@ -52,11 +58,5 @@
     "date": "2026-11-07",
     "title": "제15회 부여 굿뜨래 마라톤 대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110720"
-  },
-  {
-    "event_no": "20261107050",
-    "date": "2026-11-07",
-    "title": "2026 멕시카나 런",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261107050"
   }
 ]
