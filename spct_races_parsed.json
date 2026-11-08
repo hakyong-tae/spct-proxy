@@ -12,21 +12,15 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261108091"
   },
   {
-    "event_no": "20261108050",
-    "date": "2026-11-08",
-    "title": "제3회 자유민주마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261108050"
-  },
-  {
     "event_no": "2026110805",
     "date": "2026-11-08",
-    "title": "청양칠갑마라톤",
+    "title": "2026 청양군체육회장기칠갑마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110805"
   },
   {
     "event_no": "2026110804",
     "date": "2026-11-08",
-    "title": "제2회 대구협회장배 전국마라톤",
+    "title": "제2회 대구마라톤협회장배 마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110804"
   },
   {
@@ -44,7 +38,7 @@
   {
     "event_no": "2026110801",
     "date": "2026-11-08",
-    "title": "제12회 아산 은행나무길 전국 마라톤 대회",
+    "title": "제12회 아산 은행나무길 전국마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110801"
   },
   {
@@ -58,5 +52,11 @@
     "date": "2026-11-07",
     "title": "제15회 부여 굿뜨래 마라톤 대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110720"
+  },
+  {
+    "event_no": "20261107050",
+    "date": "2026-11-07",
+    "title": "2026 멕시카나 런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261107050"
   }
 ]
