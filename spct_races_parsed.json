@@ -1,5 +1,29 @@
 [
   {
+    "event_no": "2026111404",
+    "date": "2026-11-14",
+    "title": "완주만경강메디오폰도",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111404"
+  },
+  {
+    "event_no": "2026111403",
+    "date": "2026-11-14",
+    "title": "제10회 거제시장배 전국휠체어마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111403"
+  },
+  {
+    "event_no": "2026111402",
+    "date": "2026-11-14",
+    "title": "순천남승룡",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111402"
+  },
+  {
+    "event_no": "2026111401",
+    "date": "2026-11-14",
+    "title": "안양천 단풍길",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111401"
+  },
+  {
     "event_no": "2026110810",
     "date": "2026-11-08",
     "title": "2026 안산RUN마라톤",
@@ -34,29 +58,5 @@
     "date": "2026-11-08",
     "title": "완주만경강마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110803"
-  },
-  {
-    "event_no": "2026110802",
-    "date": "2026-11-08",
-    "title": "제17회 강남구청장배육상대회 강남하프마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110802"
-  },
-  {
-    "event_no": "2026110801",
-    "date": "2026-11-08",
-    "title": "제12회 아산 은행나무길 전국마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110801"
-  },
-  {
-    "event_no": "20261108002",
-    "date": "2026-11-08",
-    "title": "2026 과천마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261108002"
-  },
-  {
-    "event_no": "2026110720",
-    "date": "2026-11-07",
-    "title": "제15회 부여 굿뜨래 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026110720"
   }
 ]
