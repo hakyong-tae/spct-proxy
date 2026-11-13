@@ -18,6 +18,12 @@
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261115091"
   },
   {
+    "event_no": "20261115050",
+    "date": "2026-11-15",
+    "title": "2026 제 12회 창원특례시장배 광려천마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261115050"
+  },
+  {
     "event_no": "2026111505",
     "date": "2026-11-15",
     "title": "2026 송도 워크앤런 마라톤",
@@ -52,11 +58,5 @@
     "date": "2026-11-15",
     "title": "창원광려천마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261115006"
-  },
-  {
-    "event_no": "2026111404",
-    "date": "2026-11-14",
-    "title": "완주만경강메디오폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111404"
   }
 ]
