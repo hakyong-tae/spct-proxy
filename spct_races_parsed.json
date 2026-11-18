@@ -1,5 +1,29 @@
 [
   {
+    "event_no": "2026112150",
+    "date": "2026-11-21",
+    "title": "K거상 트레일러닝",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026112150"
+  },
+  {
+    "event_no": "2026112130",
+    "date": "2026-11-21",
+    "title": "충북형 몸활동 포유 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026112130"
+  },
+  {
+    "event_no": "2026112101",
+    "date": "2026-11-21",
+    "title": "유러닝페스타",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026112101"
+  },
+  {
+    "event_no": "2026111801",
+    "date": "2026-11-18",
+    "title": "용인테스트대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111801"
+  },
+  {
     "event_no": "2026111530",
     "date": "2026-11-15",
     "title": "제22회 2026 제주감귤 국제마라톤대회",
@@ -34,29 +58,5 @@
     "date": "2026-11-15",
     "title": "2026 손기정평화마라톤",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111503"
-  },
-  {
-    "event_no": "2026111502",
-    "date": "2026-11-15",
-    "title": "제2회 세종특별자치시 전국마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111502"
-  },
-  {
-    "event_no": "2026111501",
-    "date": "2026-11-15",
-    "title": "제24회 고창고인돌마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111501"
-  },
-  {
-    "event_no": "2026111405",
-    "date": "2026-11-14",
-    "title": "2026 완주 만경강 메디오폰도 KOM",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111405"
-  },
-  {
-    "event_no": "2026111404",
-    "date": "2026-11-14",
-    "title": "2026 완주 만경강 메디오폰도",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111404"
   }
 ]
