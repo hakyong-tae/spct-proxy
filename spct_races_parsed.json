@@ -1,5 +1,23 @@
 [
   {
+    "event_no": "20261122050",
+    "date": "2026-11-22",
+    "title": "2026 서울 억새풀 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261122050"
+  },
+  {
+    "event_no": "2026112201",
+    "date": "2026-11-22",
+    "title": "2026 평화의숲 마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026112201"
+  },
+  {
+    "event_no": "20261122005",
+    "date": "2026-11-22",
+    "title": "억새풀마라톤",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261122005"
+  },
+  {
     "event_no": "2026112150",
     "date": "2026-11-21",
     "title": "K거상 트레일러닝",
@@ -8,7 +26,7 @@
   {
     "event_no": "2026112130",
     "date": "2026-11-21",
-    "title": "충북형 몸활동 포유 마라톤",
+    "title": "2026 충북형 몸활동 포(4)유 마라톤 축제",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026112130"
   },
   {
@@ -40,23 +58,5 @@
     "date": "2026-11-15",
     "title": "2026 제 12회 창원특례시장배 광려천마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261115050"
-  },
-  {
-    "event_no": "2026111505",
-    "date": "2026-11-15",
-    "title": "2026 연수구청장배 송도 WALK & RUN",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111505"
-  },
-  {
-    "event_no": "2026111504",
-    "date": "2026-11-15",
-    "title": "2026 청춘레이스",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111504"
-  },
-  {
-    "event_no": "2026111503",
-    "date": "2026-11-15",
-    "title": "2026 손기정평화마라톤",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111503"
   }
 ]
