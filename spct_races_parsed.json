@@ -1,5 +1,17 @@
 [
   {
+    "event_no": "2026112820",
+    "date": "2026-11-28",
+    "title": "2026 남원 춘향 전국 마라톤대회",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026112820"
+  },
+  {
+    "event_no": "2026112801",
+    "date": "2026-11-28",
+    "title": "2026 스포티비 나이트런",
+    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026112801"
+  },
+  {
     "event_no": "20261122050",
     "date": "2026-11-22",
     "title": "2026 서울 억새풀 마라톤대회",
@@ -46,17 +58,5 @@
     "date": "2026-11-15",
     "title": "제22회 2026 제주감귤 국제마라톤대회",
     "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111530"
-  },
-  {
-    "event_no": "2026111520",
-    "date": "2026-11-15",
-    "title": "제24회 상주 곶감 마라톤 대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=2026111520"
-  },
-  {
-    "event_no": "20261115050",
-    "date": "2026-11-15",
-    "title": "2026 제 12회 창원특례시장배 광려천마라톤대회",
-    "url": "https://time.spct.kr/m1.php?TargetYear=2026&EVENT_NO=20261115050"
   }
 ]
